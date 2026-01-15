@@ -76,11 +76,14 @@ This tool operates **entirely in user-mode**, using publicly available OS APIs.
 
 The monitor will automatically detect the game session and log events.
 
+
 Example Log Output:
+
+```bash
 [2026-01-15 18:41:12] VALORANT Integrity Monitor started
 [2026-01-15 18:42:05] New process while VALORANT running: obs64.exe | pid=1234
 [2026-01-15 18:55:33] VALORANT session ended
-
+```
 ---
 
 Educational Value:
