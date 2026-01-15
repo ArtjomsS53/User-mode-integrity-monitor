@@ -1,1 +1,0 @@
-# User-mode-integrity-monitor
