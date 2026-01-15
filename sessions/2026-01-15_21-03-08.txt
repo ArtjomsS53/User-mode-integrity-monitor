@@ -1,0 +1,163 @@
+VALORANT session stopped
+Summary: 160 new process(es)
+Processes:
+- System | pid=4 | exe=
+-  | pid=236 | exe=
+- Registry | pid=280 | exe=Registry
+- MemCompression | pid=2336 | exe=MemCompression
+- AppleMobileDeviceService.exe | pid=4648 | exe=C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe
+- EpicGamesLauncher.exe | pid=11864 | exe=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+- NordUpdateService.exe | pid=4724 | exe=C:\Program Files\NordUpdater\NordUpdateService.exe
+- MicrosoftEdgeUpdate.exe | pid=8132 | exe=C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+- System | pid=4 | exe=
+-  | pid=236 | exe=
+- Registry | pid=280 | exe=Registry
+- MemCompression | pid=2336 | exe=MemCompression
+- AppleMobileDeviceService.exe | pid=4648 | exe=C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe
+- EpicGamesLauncher.exe | pid=11864 | exe=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+- NordUpdateService.exe | pid=4724 | exe=C:\Program Files\NordUpdater\NordUpdateService.exe
+- MicrosoftEdgeUpdate.exe | pid=8132 | exe=C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+- System | pid=4 | exe=
+-  | pid=236 | exe=
+- Registry | pid=280 | exe=Registry
+- MemCompression | pid=2336 | exe=MemCompression
+- AppleMobileDeviceService.exe | pid=4648 | exe=C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe
+- EpicGamesLauncher.exe | pid=11864 | exe=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+- NordUpdateService.exe | pid=4724 | exe=C:\Program Files\NordUpdater\NordUpdateService.exe
+- MicrosoftEdgeUpdate.exe | pid=8132 | exe=C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+- System | pid=4 | exe=
+-  | pid=236 | exe=
+- Registry | pid=280 | exe=Registry
+- MemCompression | pid=2336 | exe=MemCompression
+- AppleMobileDeviceService.exe | pid=4648 | exe=C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe
+- EpicGamesLauncher.exe | pid=11864 | exe=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+- NordUpdateService.exe | pid=4724 | exe=C:\Program Files\NordUpdater\NordUpdateService.exe
+- MicrosoftEdgeUpdate.exe | pid=8132 | exe=C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+- System | pid=4 | exe=
+-  | pid=236 | exe=
+- Registry | pid=280 | exe=Registry
+- MemCompression | pid=2336 | exe=MemCompression
+- AppleMobileDeviceService.exe | pid=4648 | exe=C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe
+- EpicGamesLauncher.exe | pid=11864 | exe=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+- NordUpdateService.exe | pid=4724 | exe=C:\Program Files\NordUpdater\NordUpdateService.exe
+- MicrosoftEdgeUpdate.exe | pid=8132 | exe=C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+- System | pid=4 | exe=
+-  | pid=236 | exe=
+- Registry | pid=280 | exe=Registry
+- MemCompression | pid=2336 | exe=MemCompression
+- AppleMobileDeviceService.exe | pid=4648 | exe=C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe
+- EpicGamesLauncher.exe | pid=11864 | exe=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+- NordUpdateService.exe | pid=4724 | exe=C:\Program Files\NordUpdater\NordUpdateService.exe
+- MicrosoftEdgeUpdate.exe | pid=8132 | exe=C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+- System | pid=4 | exe=
+-  | pid=236 | exe=
+- Registry | pid=280 | exe=Registry
+- MemCompression | pid=2336 | exe=MemCompression
+- AppleMobileDeviceService.exe | pid=4648 | exe=C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe
+- EpicGamesLauncher.exe | pid=11864 | exe=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+- NordUpdateService.exe | pid=4724 | exe=C:\Program Files\NordUpdater\NordUpdateService.exe
+- MicrosoftEdgeUpdate.exe | pid=8132 | exe=C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+- System | pid=4 | exe=
+-  | pid=236 | exe=
+- Registry | pid=280 | exe=Registry
+- MemCompression | pid=2336 | exe=MemCompression
+- AppleMobileDeviceService.exe | pid=4648 | exe=C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe
+- EpicGamesLauncher.exe | pid=11864 | exe=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+- NordUpdateService.exe | pid=4724 | exe=C:\Program Files\NordUpdater\NordUpdateService.exe
+- MicrosoftEdgeUpdate.exe | pid=8132 | exe=C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+- System | pid=4 | exe=
+-  | pid=236 | exe=
+- Registry | pid=280 | exe=Registry
+- MemCompression | pid=2336 | exe=MemCompression
+- AppleMobileDeviceService.exe | pid=4648 | exe=C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe
+- EpicGamesLauncher.exe | pid=11864 | exe=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+- NordUpdateService.exe | pid=4724 | exe=C:\Program Files\NordUpdater\NordUpdateService.exe
+- MicrosoftEdgeUpdate.exe | pid=8132 | exe=C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+- System | pid=4 | exe=
+-  | pid=236 | exe=
+- Registry | pid=280 | exe=Registry
+- MemCompression | pid=2336 | exe=MemCompression
+- AppleMobileDeviceService.exe | pid=4648 | exe=C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe
+- EpicGamesLauncher.exe | pid=11864 | exe=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+- NordUpdateService.exe | pid=4724 | exe=C:\Program Files\NordUpdater\NordUpdateService.exe
+- MicrosoftEdgeUpdate.exe | pid=8132 | exe=C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+- System | pid=4 | exe=
+-  | pid=236 | exe=
+- Registry | pid=280 | exe=Registry
+- MemCompression | pid=2336 | exe=MemCompression
+- AppleMobileDeviceService.exe | pid=4648 | exe=C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe
+- EpicGamesLauncher.exe | pid=11864 | exe=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+- NordUpdateService.exe | pid=4724 | exe=C:\Program Files\NordUpdater\NordUpdateService.exe
+- MicrosoftEdgeUpdate.exe | pid=8132 | exe=C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+- System | pid=4 | exe=
+-  | pid=236 | exe=
+- Registry | pid=280 | exe=Registry
+- MemCompression | pid=2336 | exe=MemCompression
+- AppleMobileDeviceService.exe | pid=4648 | exe=C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe
+- EpicGamesLauncher.exe | pid=11864 | exe=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+- NordUpdateService.exe | pid=4724 | exe=C:\Program Files\NordUpdater\NordUpdateService.exe
+- MicrosoftEdgeUpdate.exe | pid=8132 | exe=C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+- System | pid=4 | exe=
+-  | pid=236 | exe=
+- Registry | pid=280 | exe=Registry
+- MemCompression | pid=2336 | exe=MemCompression
+- AppleMobileDeviceService.exe | pid=4648 | exe=C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe
+- EpicGamesLauncher.exe | pid=11864 | exe=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+- NordUpdateService.exe | pid=4724 | exe=C:\Program Files\NordUpdater\NordUpdateService.exe
+- MicrosoftEdgeUpdate.exe | pid=8132 | exe=C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+- System | pid=4 | exe=
+-  | pid=236 | exe=
+- Registry | pid=280 | exe=Registry
+- MemCompression | pid=2336 | exe=MemCompression
+- AppleMobileDeviceService.exe | pid=4648 | exe=C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe
+- EpicGamesLauncher.exe | pid=11864 | exe=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+- NordUpdateService.exe | pid=4724 | exe=C:\Program Files\NordUpdater\NordUpdateService.exe
+- MicrosoftEdgeUpdate.exe | pid=8132 | exe=C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+- System | pid=4 | exe=
+-  | pid=236 | exe=
+- Registry | pid=280 | exe=Registry
+- MemCompression | pid=2336 | exe=MemCompression
+- AppleMobileDeviceService.exe | pid=4648 | exe=C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe
+- EpicGamesLauncher.exe | pid=11864 | exe=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+- NordUpdateService.exe | pid=4724 | exe=C:\Program Files\NordUpdater\NordUpdateService.exe
+- MicrosoftEdgeUpdate.exe | pid=8132 | exe=C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+- System | pid=4 | exe=
+-  | pid=236 | exe=
+- Registry | pid=280 | exe=Registry
+- MemCompression | pid=2336 | exe=MemCompression
+- AppleMobileDeviceService.exe | pid=4648 | exe=C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe
+- EpicGamesLauncher.exe | pid=11864 | exe=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+- NordUpdateService.exe | pid=4724 | exe=C:\Program Files\NordUpdater\NordUpdateService.exe
+- MicrosoftEdgeUpdate.exe | pid=8132 | exe=C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+- System | pid=4 | exe=
+-  | pid=236 | exe=
+- Registry | pid=280 | exe=Registry
+- MemCompression | pid=2336 | exe=MemCompression
+- AppleMobileDeviceService.exe | pid=4648 | exe=C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe
+- EpicGamesLauncher.exe | pid=11864 | exe=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+- NordUpdateService.exe | pid=4724 | exe=C:\Program Files\NordUpdater\NordUpdateService.exe
+- MicrosoftEdgeUpdate.exe | pid=8132 | exe=C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+- System | pid=4 | exe=
+-  | pid=236 | exe=
+- Registry | pid=280 | exe=Registry
+- MemCompression | pid=2336 | exe=MemCompression
+- AppleMobileDeviceService.exe | pid=4648 | exe=C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe
+- EpicGamesLauncher.exe | pid=11864 | exe=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+- NordUpdateService.exe | pid=4724 | exe=C:\Program Files\NordUpdater\NordUpdateService.exe
+- MicrosoftEdgeUpdate.exe | pid=8132 | exe=C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+- System | pid=4 | exe=
+-  | pid=236 | exe=
+- Registry | pid=280 | exe=Registry
+- MemCompression | pid=2336 | exe=MemCompression
+- AppleMobileDeviceService.exe | pid=4648 | exe=C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe
+- EpicGamesLauncher.exe | pid=11864 | exe=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+- NordUpdateService.exe | pid=4724 | exe=C:\Program Files\NordUpdater\NordUpdateService.exe
+- MicrosoftEdgeUpdate.exe | pid=8132 | exe=C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+- System | pid=4 | exe=
+-  | pid=236 | exe=
+- Registry | pid=280 | exe=Registry
+- MemCompression | pid=2336 | exe=MemCompression
+- AppleMobileDeviceService.exe | pid=4648 | exe=C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe
+- EpicGamesLauncher.exe | pid=11864 | exe=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+- NordUpdateService.exe | pid=4724 | exe=C:\Program Files\NordUpdater\NordUpdateService.exe
+- MicrosoftEdgeUpdate.exe | pid=8132 | exe=C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe

@@ -1,0 +1,1785 @@
+VALORANT session stopped
+Summary: 1782 new process(es)
+Processes:
+- System | pid=4 | exe=
+- DisplayFusionHookApp64.exe | pid=5148 | exe=C:\Program Files\DisplayFusion\DisplayFusionHookApp64.exe
+- Code.exe | pid=18464 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=32828 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- CC_Engine_x64.exe | pid=8256 | exe=C:\Program Files (x86)\MSI\MSI Center\Engine\CC_Engine_x64.exe
+- MSI.TerminalServer.exe | pid=14400 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI.TerminalServer.exe
+- OP.GG.exe | pid=4176 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- Code.exe | pid=14416 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- pet.exe | pid=19540 | exe=C:\Users\artem\.vscode\extensions\ms-python.python-2026.0.0-win32-x64\python-env-tools\bin\pet.exe
+- msedgewebview2.exe | pid=26720 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- nordvpn-service.exe | pid=4196 | exe=C:\Program Files\NordVPN\nordvpn-service.exe
+- OP.GG.exe | pid=23668 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- firefox.exe | pid=32936 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=26800 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedgewebview2.exe | pid=27824 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- msedge.exe | pid=10444 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- EpicWebHelper.exe | pid=23764 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+-  | pid=236 | exe=
+- CefSharp.BrowserSubprocess.exe | pid=23808 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- msedge.exe | pid=15624 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- RazerCortex.exe | pid=1300 | exe=C:\Program Files (x86)\Razer\Razer Cortex\RazerCortex.exe
+- Registry | pid=280 | exe=Registry
+- MemCompression | pid=2336 | exe=MemCompression
+- msedgewebview2.exe | pid=13608 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- CefSharp.BrowserSubprocess.exe | pid=11588 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- msedgewebview2.exe | pid=13644 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- CefSharp.BrowserSubprocess.exe | pid=23896 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- CefSharp.BrowserSubprocess.exe | pid=23904 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- OP.GG.exe | pid=24936 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=14704 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- OverwolfHelper.exe | pid=24944 | exe=C:\Program Files (x86)\Common Files\Overwolf\0.292.1.1\OverwolfHelper.exe
+- msedge.exe | pid=10628 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- firefox.exe | pid=31116 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=26024 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- OverwolfBrowser.exe | pid=5556 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- PowerModeWatcher.exe | pid=21956 | exe=C:\Program Files (x86)\MSI\MSI Center\AI Engine\PowerModeWatcher.exe
+- msedge.exe | pid=14796 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- OverwolfHelper64.exe | pid=25052 | exe=C:\Program Files (x86)\Common Files\Overwolf\0.292.1.1\OverwolfHelper64.exe
+- CortexLauncherService.exe | pid=4608 | exe=C:\Program Files (x86)\Razer\Razer Cortex\CortexLauncherService.exe
+- OverwolfBrowser.exe | pid=3596 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- AppleMobileDeviceService.exe | pid=4648 | exe=C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe
+- OP.GG.exe | pid=27176 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=16940 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- LightKeeperService.exe | pid=4656 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\LightKeeperService.exe
+- Code.exe | pid=20020 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MSI_Case_Service.exe | pid=4668 | exe=C:\Program Files (x86)\MSI\MSI Center\Case\MSI_Case_Service.exe
+- msedgewebview2.exe | pid=12860 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- Mystic_Light_Service.exe | pid=4676 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\Mystic_Light_Service.exe
+- MSI_Central_Service.exe | pid=4684 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI_Central_Service.exe
+- EpicGamesLauncher.exe | pid=11864 | exe=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+- msedgewebview2.exe | pid=26204 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=31324 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- firefox.exe | pid=32356 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- msedgewebview2.exe | pid=27244 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- NordUpdateService.exe | pid=4724 | exe=C:\Program Files\NordUpdater\NordUpdateService.exe
+- GameManagerService3.exe | pid=4740 | exe=C:\Program Files (x86)\Razer\Razer Services\GMS3\GameManagerService3.exe
+- RazerCentralService.exe | pid=4748 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\RazerCentralService.exe
+- msedgewebview2.exe | pid=14000 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- OP.GG.exe | pid=22192 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- firefox.exe | pid=4788 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=25268 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- OverwolfBrowser.exe | pid=31412 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- msedgewebview2.exe | pid=23228 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=32476 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OverwolfBrowser.exe | pid=23264 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- crashhelper.exe | pid=6892 | exe=C:\Program Files\Mozilla Firefox\crashhelper.exe
+- firefox.exe | pid=23280 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- DisplayFusionHookApp32.exe | pid=1780 | exe=C:\Program Files\DisplayFusion\DisplayFusionHookApp32.exe
+- msedge.exe | pid=20212 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- DisplayFusion.exe | pid=26360 | exe=C:\Program Files\DisplayFusion\DisplayFusion.exe
+- OP.GG.exe | pid=26376 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=11032 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- firefox.exe | pid=6940 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=19236 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=19260 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MSI.CentralServer.exe | pid=6976 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI.CentralServer.exe
+- Code.exe | pid=18252 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- firefox.exe | pid=10064 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- msedgewebview2.exe | pid=13140 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=17240 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OverwolfBrowser.exe | pid=16232 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- Razer Central.exe | pid=23404 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\Razer Central.exe
+- DisplayFusionService.exe | pid=31600 | exe=C:\Program Files\DisplayFusion\DisplayFusionService.exe
+- msedgewebview2.exe | pid=14208 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- msedgewebview2.exe | pid=26496 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=20380 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=18344 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=19376 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- msedge.exe | pid=15288 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- CefSharp.BrowserSubprocess.exe | pid=23480 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- Code.exe | pid=18368 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MicrosoftEdgeUpdate.exe | pid=8132 | exe=C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+- EpicWebHelper.exe | pid=24516 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- firefox.exe | pid=31696 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=19420 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- EpicWebHelper.exe | pid=17376 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- EpicWebHelper.exe | pid=24544 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- LEDKeeper2.exe | pid=8172 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\LEDKeeper2.exe
+- Overwolf.exe | pid=24560 | exe=C:\Program Files (x86)\Overwolf\Overwolf.exe
+- OverwolfBrowser.exe | pid=32764 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- System | pid=4 | exe=
+- DisplayFusionHookApp64.exe | pid=5148 | exe=C:\Program Files\DisplayFusion\DisplayFusionHookApp64.exe
+- Code.exe | pid=18464 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=32828 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- CC_Engine_x64.exe | pid=8256 | exe=C:\Program Files (x86)\MSI\MSI Center\Engine\CC_Engine_x64.exe
+- MSI.TerminalServer.exe | pid=14400 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI.TerminalServer.exe
+- OP.GG.exe | pid=4176 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- Code.exe | pid=14416 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- pet.exe | pid=19540 | exe=C:\Users\artem\.vscode\extensions\ms-python.python-2026.0.0-win32-x64\python-env-tools\bin\pet.exe
+- msedgewebview2.exe | pid=26720 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- nordvpn-service.exe | pid=4196 | exe=C:\Program Files\NordVPN\nordvpn-service.exe
+- OP.GG.exe | pid=23668 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- firefox.exe | pid=32936 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=26800 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedgewebview2.exe | pid=27824 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- msedge.exe | pid=10444 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- EpicWebHelper.exe | pid=23764 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+-  | pid=236 | exe=
+- CefSharp.BrowserSubprocess.exe | pid=23808 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- msedge.exe | pid=15624 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- RazerCortex.exe | pid=1300 | exe=C:\Program Files (x86)\Razer\Razer Cortex\RazerCortex.exe
+- Registry | pid=280 | exe=Registry
+- MemCompression | pid=2336 | exe=MemCompression
+- msedgewebview2.exe | pid=13608 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- CefSharp.BrowserSubprocess.exe | pid=11588 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- msedgewebview2.exe | pid=13644 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- CefSharp.BrowserSubprocess.exe | pid=23896 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- CefSharp.BrowserSubprocess.exe | pid=23904 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- OP.GG.exe | pid=24936 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=14704 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- OverwolfHelper.exe | pid=24944 | exe=C:\Program Files (x86)\Common Files\Overwolf\0.292.1.1\OverwolfHelper.exe
+- msedge.exe | pid=10628 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- firefox.exe | pid=31116 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=26024 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- OverwolfBrowser.exe | pid=5556 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- PowerModeWatcher.exe | pid=21956 | exe=C:\Program Files (x86)\MSI\MSI Center\AI Engine\PowerModeWatcher.exe
+- msedge.exe | pid=14796 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- OverwolfHelper64.exe | pid=25052 | exe=C:\Program Files (x86)\Common Files\Overwolf\0.292.1.1\OverwolfHelper64.exe
+- CortexLauncherService.exe | pid=4608 | exe=C:\Program Files (x86)\Razer\Razer Cortex\CortexLauncherService.exe
+- OverwolfBrowser.exe | pid=3596 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- AppleMobileDeviceService.exe | pid=4648 | exe=C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe
+- OP.GG.exe | pid=27176 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=16940 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- LightKeeperService.exe | pid=4656 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\LightKeeperService.exe
+- Code.exe | pid=20020 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MSI_Case_Service.exe | pid=4668 | exe=C:\Program Files (x86)\MSI\MSI Center\Case\MSI_Case_Service.exe
+- msedgewebview2.exe | pid=12860 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- Mystic_Light_Service.exe | pid=4676 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\Mystic_Light_Service.exe
+- MSI_Central_Service.exe | pid=4684 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI_Central_Service.exe
+- EpicGamesLauncher.exe | pid=11864 | exe=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+- msedgewebview2.exe | pid=26204 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=31324 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- firefox.exe | pid=32356 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- msedgewebview2.exe | pid=27244 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- NordUpdateService.exe | pid=4724 | exe=C:\Program Files\NordUpdater\NordUpdateService.exe
+- GameManagerService3.exe | pid=4740 | exe=C:\Program Files (x86)\Razer\Razer Services\GMS3\GameManagerService3.exe
+- RazerCentralService.exe | pid=4748 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\RazerCentralService.exe
+- msedgewebview2.exe | pid=14000 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- OP.GG.exe | pid=22192 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- firefox.exe | pid=4788 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=25268 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- OverwolfBrowser.exe | pid=31412 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- msedgewebview2.exe | pid=23228 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=32476 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OverwolfBrowser.exe | pid=23264 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- crashhelper.exe | pid=6892 | exe=C:\Program Files\Mozilla Firefox\crashhelper.exe
+- firefox.exe | pid=23280 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- DisplayFusionHookApp32.exe | pid=1780 | exe=C:\Program Files\DisplayFusion\DisplayFusionHookApp32.exe
+- msedge.exe | pid=20212 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- DisplayFusion.exe | pid=26360 | exe=C:\Program Files\DisplayFusion\DisplayFusion.exe
+- OP.GG.exe | pid=26376 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=11032 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- firefox.exe | pid=6940 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=19236 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=19260 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MSI.CentralServer.exe | pid=6976 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI.CentralServer.exe
+- Code.exe | pid=18252 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- firefox.exe | pid=10064 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- msedgewebview2.exe | pid=13140 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=17240 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OverwolfBrowser.exe | pid=16232 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- Razer Central.exe | pid=23404 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\Razer Central.exe
+- DisplayFusionService.exe | pid=31600 | exe=C:\Program Files\DisplayFusion\DisplayFusionService.exe
+- msedgewebview2.exe | pid=14208 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- msedgewebview2.exe | pid=26496 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=20380 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=18344 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=19376 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- msedge.exe | pid=15288 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- CefSharp.BrowserSubprocess.exe | pid=23480 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- Code.exe | pid=18368 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MicrosoftEdgeUpdate.exe | pid=8132 | exe=C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+- EpicWebHelper.exe | pid=24516 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- firefox.exe | pid=31696 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=19420 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- EpicWebHelper.exe | pid=17376 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- EpicWebHelper.exe | pid=24544 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- LEDKeeper2.exe | pid=8172 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\LEDKeeper2.exe
+- Overwolf.exe | pid=24560 | exe=C:\Program Files (x86)\Overwolf\Overwolf.exe
+- OverwolfBrowser.exe | pid=32764 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- System | pid=4 | exe=
+- DisplayFusionHookApp64.exe | pid=5148 | exe=C:\Program Files\DisplayFusion\DisplayFusionHookApp64.exe
+- Code.exe | pid=18464 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=32828 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- CC_Engine_x64.exe | pid=8256 | exe=C:\Program Files (x86)\MSI\MSI Center\Engine\CC_Engine_x64.exe
+- MSI.TerminalServer.exe | pid=14400 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI.TerminalServer.exe
+- OP.GG.exe | pid=4176 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- Code.exe | pid=14416 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- pet.exe | pid=19540 | exe=C:\Users\artem\.vscode\extensions\ms-python.python-2026.0.0-win32-x64\python-env-tools\bin\pet.exe
+- msedgewebview2.exe | pid=26720 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- nordvpn-service.exe | pid=4196 | exe=C:\Program Files\NordVPN\nordvpn-service.exe
+- OP.GG.exe | pid=23668 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- firefox.exe | pid=32936 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=26800 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedgewebview2.exe | pid=27824 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- msedge.exe | pid=10444 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- EpicWebHelper.exe | pid=23764 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+-  | pid=236 | exe=
+- CefSharp.BrowserSubprocess.exe | pid=23808 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- msedge.exe | pid=15624 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- RazerCortex.exe | pid=1300 | exe=C:\Program Files (x86)\Razer\Razer Cortex\RazerCortex.exe
+- Registry | pid=280 | exe=Registry
+- MemCompression | pid=2336 | exe=MemCompression
+- msedgewebview2.exe | pid=13608 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- CefSharp.BrowserSubprocess.exe | pid=11588 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- msedgewebview2.exe | pid=13644 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- CefSharp.BrowserSubprocess.exe | pid=23896 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- CefSharp.BrowserSubprocess.exe | pid=23904 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- OP.GG.exe | pid=24936 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=14704 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- OverwolfHelper.exe | pid=24944 | exe=C:\Program Files (x86)\Common Files\Overwolf\0.292.1.1\OverwolfHelper.exe
+- msedge.exe | pid=10628 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- firefox.exe | pid=31116 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=26024 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- OverwolfBrowser.exe | pid=5556 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- PowerModeWatcher.exe | pid=21956 | exe=C:\Program Files (x86)\MSI\MSI Center\AI Engine\PowerModeWatcher.exe
+- msedge.exe | pid=14796 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- OverwolfHelper64.exe | pid=25052 | exe=C:\Program Files (x86)\Common Files\Overwolf\0.292.1.1\OverwolfHelper64.exe
+- CortexLauncherService.exe | pid=4608 | exe=C:\Program Files (x86)\Razer\Razer Cortex\CortexLauncherService.exe
+- OverwolfBrowser.exe | pid=3596 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- AppleMobileDeviceService.exe | pid=4648 | exe=C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe
+- OP.GG.exe | pid=27176 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=16940 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- LightKeeperService.exe | pid=4656 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\LightKeeperService.exe
+- Code.exe | pid=20020 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MSI_Case_Service.exe | pid=4668 | exe=C:\Program Files (x86)\MSI\MSI Center\Case\MSI_Case_Service.exe
+- msedgewebview2.exe | pid=12860 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- Mystic_Light_Service.exe | pid=4676 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\Mystic_Light_Service.exe
+- MSI_Central_Service.exe | pid=4684 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI_Central_Service.exe
+- EpicGamesLauncher.exe | pid=11864 | exe=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+- msedgewebview2.exe | pid=26204 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=31324 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- firefox.exe | pid=32356 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- msedgewebview2.exe | pid=27244 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- NordUpdateService.exe | pid=4724 | exe=C:\Program Files\NordUpdater\NordUpdateService.exe
+- GameManagerService3.exe | pid=4740 | exe=C:\Program Files (x86)\Razer\Razer Services\GMS3\GameManagerService3.exe
+- RazerCentralService.exe | pid=4748 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\RazerCentralService.exe
+- msedgewebview2.exe | pid=14000 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- OP.GG.exe | pid=22192 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- firefox.exe | pid=4788 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=25268 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- OverwolfBrowser.exe | pid=31412 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- msedgewebview2.exe | pid=23228 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=32476 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OverwolfBrowser.exe | pid=23264 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- crashhelper.exe | pid=6892 | exe=C:\Program Files\Mozilla Firefox\crashhelper.exe
+- firefox.exe | pid=23280 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- DisplayFusionHookApp32.exe | pid=1780 | exe=C:\Program Files\DisplayFusion\DisplayFusionHookApp32.exe
+- msedge.exe | pid=20212 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- DisplayFusion.exe | pid=26360 | exe=C:\Program Files\DisplayFusion\DisplayFusion.exe
+- OP.GG.exe | pid=26376 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=11032 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- firefox.exe | pid=6940 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=19236 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=19260 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MSI.CentralServer.exe | pid=6976 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI.CentralServer.exe
+- Code.exe | pid=18252 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- firefox.exe | pid=10064 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- msedgewebview2.exe | pid=13140 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=17240 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OverwolfBrowser.exe | pid=16232 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- Razer Central.exe | pid=23404 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\Razer Central.exe
+- DisplayFusionService.exe | pid=31600 | exe=C:\Program Files\DisplayFusion\DisplayFusionService.exe
+- msedgewebview2.exe | pid=14208 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- msedgewebview2.exe | pid=26496 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=20380 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=18344 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=19376 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- msedge.exe | pid=15288 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- CefSharp.BrowserSubprocess.exe | pid=23480 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- OverwolfBrowser.exe | pid=30648 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- Code.exe | pid=18368 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MicrosoftEdgeUpdate.exe | pid=8132 | exe=C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+- EpicWebHelper.exe | pid=24516 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- firefox.exe | pid=31696 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=19420 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- EpicWebHelper.exe | pid=17376 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- EpicWebHelper.exe | pid=24544 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- LEDKeeper2.exe | pid=8172 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\LEDKeeper2.exe
+- Overwolf.exe | pid=24560 | exe=C:\Program Files (x86)\Overwolf\Overwolf.exe
+- OverwolfBrowser.exe | pid=32764 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- System | pid=4 | exe=
+- DisplayFusionHookApp64.exe | pid=5148 | exe=C:\Program Files\DisplayFusion\DisplayFusionHookApp64.exe
+- Code.exe | pid=18464 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=32828 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- CC_Engine_x64.exe | pid=8256 | exe=C:\Program Files (x86)\MSI\MSI Center\Engine\CC_Engine_x64.exe
+- MSI.TerminalServer.exe | pid=14400 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI.TerminalServer.exe
+- OP.GG.exe | pid=4176 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- Code.exe | pid=14416 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- pet.exe | pid=19540 | exe=C:\Users\artem\.vscode\extensions\ms-python.python-2026.0.0-win32-x64\python-env-tools\bin\pet.exe
+- msedgewebview2.exe | pid=26720 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- nordvpn-service.exe | pid=4196 | exe=C:\Program Files\NordVPN\nordvpn-service.exe
+- OP.GG.exe | pid=23668 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- firefox.exe | pid=32936 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=26800 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedgewebview2.exe | pid=27824 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- msedge.exe | pid=10444 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- EpicWebHelper.exe | pid=23764 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+-  | pid=236 | exe=
+- CefSharp.BrowserSubprocess.exe | pid=23808 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- msedge.exe | pid=15624 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- RazerCortex.exe | pid=1300 | exe=C:\Program Files (x86)\Razer\Razer Cortex\RazerCortex.exe
+- Registry | pid=280 | exe=Registry
+- MemCompression | pid=2336 | exe=MemCompression
+- msedgewebview2.exe | pid=13608 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- CefSharp.BrowserSubprocess.exe | pid=11588 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- msedgewebview2.exe | pid=13644 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- CefSharp.BrowserSubprocess.exe | pid=23896 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- CefSharp.BrowserSubprocess.exe | pid=23904 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- OP.GG.exe | pid=24936 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=14704 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- OverwolfHelper.exe | pid=24944 | exe=C:\Program Files (x86)\Common Files\Overwolf\0.292.1.1\OverwolfHelper.exe
+- msedge.exe | pid=10628 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- firefox.exe | pid=31116 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=26024 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- OverwolfBrowser.exe | pid=5556 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- PowerModeWatcher.exe | pid=21956 | exe=C:\Program Files (x86)\MSI\MSI Center\AI Engine\PowerModeWatcher.exe
+- msedge.exe | pid=14796 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- OverwolfHelper64.exe | pid=25052 | exe=C:\Program Files (x86)\Common Files\Overwolf\0.292.1.1\OverwolfHelper64.exe
+- CortexLauncherService.exe | pid=4608 | exe=C:\Program Files (x86)\Razer\Razer Cortex\CortexLauncherService.exe
+- OverwolfBrowser.exe | pid=3596 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- AppleMobileDeviceService.exe | pid=4648 | exe=C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe
+- OP.GG.exe | pid=27176 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=16940 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- LightKeeperService.exe | pid=4656 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\LightKeeperService.exe
+- Code.exe | pid=20020 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MSI_Case_Service.exe | pid=4668 | exe=C:\Program Files (x86)\MSI\MSI Center\Case\MSI_Case_Service.exe
+- msedgewebview2.exe | pid=12860 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- Mystic_Light_Service.exe | pid=4676 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\Mystic_Light_Service.exe
+- MSI_Central_Service.exe | pid=4684 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI_Central_Service.exe
+- EpicGamesLauncher.exe | pid=11864 | exe=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+- msedgewebview2.exe | pid=26204 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=31324 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- firefox.exe | pid=32356 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- msedgewebview2.exe | pid=27244 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- NordUpdateService.exe | pid=4724 | exe=C:\Program Files\NordUpdater\NordUpdateService.exe
+- GameManagerService3.exe | pid=4740 | exe=C:\Program Files (x86)\Razer\Razer Services\GMS3\GameManagerService3.exe
+- RazerCentralService.exe | pid=4748 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\RazerCentralService.exe
+- msedgewebview2.exe | pid=14000 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- OP.GG.exe | pid=22192 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- firefox.exe | pid=4788 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=25268 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- OverwolfBrowser.exe | pid=31412 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- msedgewebview2.exe | pid=23228 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=32476 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OverwolfBrowser.exe | pid=23264 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- crashhelper.exe | pid=6892 | exe=C:\Program Files\Mozilla Firefox\crashhelper.exe
+- firefox.exe | pid=23280 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- DisplayFusionHookApp32.exe | pid=1780 | exe=C:\Program Files\DisplayFusion\DisplayFusionHookApp32.exe
+- msedge.exe | pid=20212 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- DisplayFusion.exe | pid=26360 | exe=C:\Program Files\DisplayFusion\DisplayFusion.exe
+- OP.GG.exe | pid=26376 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=11032 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- firefox.exe | pid=6940 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=19236 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=19260 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MSI.CentralServer.exe | pid=6976 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI.CentralServer.exe
+- Code.exe | pid=18252 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- firefox.exe | pid=10064 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- msedgewebview2.exe | pid=13140 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=17240 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OverwolfBrowser.exe | pid=16232 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- Razer Central.exe | pid=23404 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\Razer Central.exe
+- DisplayFusionService.exe | pid=31600 | exe=C:\Program Files\DisplayFusion\DisplayFusionService.exe
+- msedgewebview2.exe | pid=14208 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- msedgewebview2.exe | pid=26496 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=20380 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=18344 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=19376 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- msedge.exe | pid=15288 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- CefSharp.BrowserSubprocess.exe | pid=23480 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- OverwolfBrowser.exe | pid=30648 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- Code.exe | pid=18368 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MicrosoftEdgeUpdate.exe | pid=8132 | exe=C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+- EpicWebHelper.exe | pid=24516 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- firefox.exe | pid=31696 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=19420 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- EpicWebHelper.exe | pid=17376 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- EpicWebHelper.exe | pid=24544 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- LEDKeeper2.exe | pid=8172 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\LEDKeeper2.exe
+- Overwolf.exe | pid=24560 | exe=C:\Program Files (x86)\Overwolf\Overwolf.exe
+- OverwolfBrowser.exe | pid=32764 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- System | pid=4 | exe=
+- DisplayFusionHookApp64.exe | pid=5148 | exe=C:\Program Files\DisplayFusion\DisplayFusionHookApp64.exe
+- Code.exe | pid=18464 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=32828 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- CC_Engine_x64.exe | pid=8256 | exe=C:\Program Files (x86)\MSI\MSI Center\Engine\CC_Engine_x64.exe
+- MSI.TerminalServer.exe | pid=14400 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI.TerminalServer.exe
+- OP.GG.exe | pid=4176 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- Code.exe | pid=14416 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- pet.exe | pid=19540 | exe=C:\Users\artem\.vscode\extensions\ms-python.python-2026.0.0-win32-x64\python-env-tools\bin\pet.exe
+- msedgewebview2.exe | pid=26720 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- nordvpn-service.exe | pid=4196 | exe=C:\Program Files\NordVPN\nordvpn-service.exe
+- OP.GG.exe | pid=23668 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- firefox.exe | pid=32936 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=26800 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedgewebview2.exe | pid=27824 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- msedge.exe | pid=10444 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- EpicWebHelper.exe | pid=23764 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+-  | pid=236 | exe=
+- CefSharp.BrowserSubprocess.exe | pid=23808 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- msedge.exe | pid=15624 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- RazerCortex.exe | pid=1300 | exe=C:\Program Files (x86)\Razer\Razer Cortex\RazerCortex.exe
+- Registry | pid=280 | exe=Registry
+- MemCompression | pid=2336 | exe=MemCompression
+- msedgewebview2.exe | pid=13608 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- CefSharp.BrowserSubprocess.exe | pid=11588 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- msedgewebview2.exe | pid=13644 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- CefSharp.BrowserSubprocess.exe | pid=23896 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- CefSharp.BrowserSubprocess.exe | pid=23904 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- OP.GG.exe | pid=24936 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=14704 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- OverwolfHelper.exe | pid=24944 | exe=C:\Program Files (x86)\Common Files\Overwolf\0.292.1.1\OverwolfHelper.exe
+- msedge.exe | pid=10628 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- firefox.exe | pid=31116 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=26024 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- OverwolfBrowser.exe | pid=5556 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- PowerModeWatcher.exe | pid=21956 | exe=C:\Program Files (x86)\MSI\MSI Center\AI Engine\PowerModeWatcher.exe
+- msedge.exe | pid=14796 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- OverwolfHelper64.exe | pid=25052 | exe=C:\Program Files (x86)\Common Files\Overwolf\0.292.1.1\OverwolfHelper64.exe
+- CortexLauncherService.exe | pid=4608 | exe=C:\Program Files (x86)\Razer\Razer Cortex\CortexLauncherService.exe
+- OverwolfBrowser.exe | pid=3596 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- AppleMobileDeviceService.exe | pid=4648 | exe=C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe
+- OP.GG.exe | pid=27176 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=16940 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- LightKeeperService.exe | pid=4656 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\LightKeeperService.exe
+- Code.exe | pid=20020 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MSI_Case_Service.exe | pid=4668 | exe=C:\Program Files (x86)\MSI\MSI Center\Case\MSI_Case_Service.exe
+- msedgewebview2.exe | pid=12860 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- Mystic_Light_Service.exe | pid=4676 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\Mystic_Light_Service.exe
+- MSI_Central_Service.exe | pid=4684 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI_Central_Service.exe
+- EpicGamesLauncher.exe | pid=11864 | exe=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+- msedgewebview2.exe | pid=26204 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=31324 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- firefox.exe | pid=32356 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- msedgewebview2.exe | pid=27244 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- NordUpdateService.exe | pid=4724 | exe=C:\Program Files\NordUpdater\NordUpdateService.exe
+- GameManagerService3.exe | pid=4740 | exe=C:\Program Files (x86)\Razer\Razer Services\GMS3\GameManagerService3.exe
+- RazerCentralService.exe | pid=4748 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\RazerCentralService.exe
+- msedgewebview2.exe | pid=14000 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- OP.GG.exe | pid=22192 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- firefox.exe | pid=4788 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=25268 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- OverwolfBrowser.exe | pid=31412 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- msedgewebview2.exe | pid=23228 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=32476 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OverwolfBrowser.exe | pid=23264 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- crashhelper.exe | pid=6892 | exe=C:\Program Files\Mozilla Firefox\crashhelper.exe
+- firefox.exe | pid=23280 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- DisplayFusionHookApp32.exe | pid=1780 | exe=C:\Program Files\DisplayFusion\DisplayFusionHookApp32.exe
+- msedge.exe | pid=20212 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- DisplayFusion.exe | pid=26360 | exe=C:\Program Files\DisplayFusion\DisplayFusion.exe
+- OP.GG.exe | pid=26376 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=11032 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- firefox.exe | pid=6940 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=19236 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=19260 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MSI.CentralServer.exe | pid=6976 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI.CentralServer.exe
+- Code.exe | pid=18252 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- firefox.exe | pid=10064 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- msedgewebview2.exe | pid=13140 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=17240 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OverwolfBrowser.exe | pid=16232 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- Razer Central.exe | pid=23404 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\Razer Central.exe
+- DisplayFusionService.exe | pid=31600 | exe=C:\Program Files\DisplayFusion\DisplayFusionService.exe
+- msedgewebview2.exe | pid=14208 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- msedgewebview2.exe | pid=26496 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=20380 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=18344 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=19376 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- msedge.exe | pid=15288 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- CefSharp.BrowserSubprocess.exe | pid=23480 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- OverwolfBrowser.exe | pid=30648 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- Code.exe | pid=18368 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MicrosoftEdgeUpdate.exe | pid=8132 | exe=C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+- EpicWebHelper.exe | pid=24516 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- firefox.exe | pid=31696 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=19420 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- EpicWebHelper.exe | pid=17376 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- EpicWebHelper.exe | pid=24544 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- LEDKeeper2.exe | pid=8172 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\LEDKeeper2.exe
+- Overwolf.exe | pid=24560 | exe=C:\Program Files (x86)\Overwolf\Overwolf.exe
+- OverwolfBrowser.exe | pid=32764 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- System | pid=4 | exe=
+- DisplayFusionHookApp64.exe | pid=5148 | exe=C:\Program Files\DisplayFusion\DisplayFusionHookApp64.exe
+- Code.exe | pid=18464 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=32828 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- CC_Engine_x64.exe | pid=8256 | exe=C:\Program Files (x86)\MSI\MSI Center\Engine\CC_Engine_x64.exe
+- MSI.TerminalServer.exe | pid=14400 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI.TerminalServer.exe
+- OP.GG.exe | pid=4176 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- Code.exe | pid=14416 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- pet.exe | pid=19540 | exe=C:\Users\artem\.vscode\extensions\ms-python.python-2026.0.0-win32-x64\python-env-tools\bin\pet.exe
+- msedgewebview2.exe | pid=26720 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- nordvpn-service.exe | pid=4196 | exe=C:\Program Files\NordVPN\nordvpn-service.exe
+- OP.GG.exe | pid=23668 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- firefox.exe | pid=32936 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=26800 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedgewebview2.exe | pid=27824 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- msedge.exe | pid=10444 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- EpicWebHelper.exe | pid=23764 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+-  | pid=236 | exe=
+- CefSharp.BrowserSubprocess.exe | pid=23808 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- msedge.exe | pid=15624 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- RazerCortex.exe | pid=1300 | exe=C:\Program Files (x86)\Razer\Razer Cortex\RazerCortex.exe
+- Registry | pid=280 | exe=Registry
+- MemCompression | pid=2336 | exe=MemCompression
+- msedgewebview2.exe | pid=13608 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- CefSharp.BrowserSubprocess.exe | pid=11588 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- msedgewebview2.exe | pid=13644 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- CefSharp.BrowserSubprocess.exe | pid=23896 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- CefSharp.BrowserSubprocess.exe | pid=23904 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- OP.GG.exe | pid=24936 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=14704 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- OverwolfHelper.exe | pid=24944 | exe=C:\Program Files (x86)\Common Files\Overwolf\0.292.1.1\OverwolfHelper.exe
+- msedge.exe | pid=10628 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- firefox.exe | pid=31116 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=26024 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- OverwolfBrowser.exe | pid=5556 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- PowerModeWatcher.exe | pid=21956 | exe=C:\Program Files (x86)\MSI\MSI Center\AI Engine\PowerModeWatcher.exe
+- msedge.exe | pid=14796 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- OverwolfHelper64.exe | pid=25052 | exe=C:\Program Files (x86)\Common Files\Overwolf\0.292.1.1\OverwolfHelper64.exe
+- CortexLauncherService.exe | pid=4608 | exe=C:\Program Files (x86)\Razer\Razer Cortex\CortexLauncherService.exe
+- OverwolfBrowser.exe | pid=3596 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- AppleMobileDeviceService.exe | pid=4648 | exe=C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe
+- OP.GG.exe | pid=27176 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=16940 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- LightKeeperService.exe | pid=4656 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\LightKeeperService.exe
+- Code.exe | pid=20020 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MSI_Case_Service.exe | pid=4668 | exe=C:\Program Files (x86)\MSI\MSI Center\Case\MSI_Case_Service.exe
+- msedgewebview2.exe | pid=12860 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- Mystic_Light_Service.exe | pid=4676 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\Mystic_Light_Service.exe
+- MSI_Central_Service.exe | pid=4684 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI_Central_Service.exe
+- EpicGamesLauncher.exe | pid=11864 | exe=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+- msedgewebview2.exe | pid=26204 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=31324 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- firefox.exe | pid=32356 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- msedgewebview2.exe | pid=27244 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- NordUpdateService.exe | pid=4724 | exe=C:\Program Files\NordUpdater\NordUpdateService.exe
+- GameManagerService3.exe | pid=4740 | exe=C:\Program Files (x86)\Razer\Razer Services\GMS3\GameManagerService3.exe
+- RazerCentralService.exe | pid=4748 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\RazerCentralService.exe
+- msedgewebview2.exe | pid=14000 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- OP.GG.exe | pid=22192 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- firefox.exe | pid=4788 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=25268 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- OverwolfBrowser.exe | pid=31412 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- msedgewebview2.exe | pid=23228 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=32476 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OverwolfBrowser.exe | pid=23264 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- crashhelper.exe | pid=6892 | exe=C:\Program Files\Mozilla Firefox\crashhelper.exe
+- firefox.exe | pid=23280 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- DisplayFusionHookApp32.exe | pid=1780 | exe=C:\Program Files\DisplayFusion\DisplayFusionHookApp32.exe
+- msedge.exe | pid=20212 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- DisplayFusion.exe | pid=26360 | exe=C:\Program Files\DisplayFusion\DisplayFusion.exe
+- OP.GG.exe | pid=26376 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=11032 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- firefox.exe | pid=6940 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=19236 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=19260 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MSI.CentralServer.exe | pid=6976 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI.CentralServer.exe
+- Code.exe | pid=18252 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- firefox.exe | pid=10064 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- msedgewebview2.exe | pid=13140 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=17240 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OverwolfBrowser.exe | pid=16232 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- Razer Central.exe | pid=23404 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\Razer Central.exe
+- DisplayFusionService.exe | pid=31600 | exe=C:\Program Files\DisplayFusion\DisplayFusionService.exe
+- msedgewebview2.exe | pid=14208 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- msedgewebview2.exe | pid=26496 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=20380 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=18344 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=19376 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- msedge.exe | pid=15288 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- CefSharp.BrowserSubprocess.exe | pid=23480 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- OverwolfBrowser.exe | pid=30648 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- Code.exe | pid=18368 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MicrosoftEdgeUpdate.exe | pid=8132 | exe=C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+- EpicWebHelper.exe | pid=24516 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- firefox.exe | pid=31696 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=19420 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- EpicWebHelper.exe | pid=17376 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- EpicWebHelper.exe | pid=24544 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- LEDKeeper2.exe | pid=8172 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\LEDKeeper2.exe
+- Overwolf.exe | pid=24560 | exe=C:\Program Files (x86)\Overwolf\Overwolf.exe
+- OverwolfBrowser.exe | pid=32764 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- System | pid=4 | exe=
+- DisplayFusionHookApp64.exe | pid=5148 | exe=C:\Program Files\DisplayFusion\DisplayFusionHookApp64.exe
+- Code.exe | pid=18464 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=32828 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- CC_Engine_x64.exe | pid=8256 | exe=C:\Program Files (x86)\MSI\MSI Center\Engine\CC_Engine_x64.exe
+- MSI.TerminalServer.exe | pid=14400 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI.TerminalServer.exe
+- OP.GG.exe | pid=4176 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- Code.exe | pid=14416 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- pet.exe | pid=19540 | exe=C:\Users\artem\.vscode\extensions\ms-python.python-2026.0.0-win32-x64\python-env-tools\bin\pet.exe
+- msedgewebview2.exe | pid=26720 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- nordvpn-service.exe | pid=4196 | exe=C:\Program Files\NordVPN\nordvpn-service.exe
+- OP.GG.exe | pid=23668 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- firefox.exe | pid=32936 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=26800 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedgewebview2.exe | pid=27824 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- msedge.exe | pid=10444 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- EpicWebHelper.exe | pid=23764 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+-  | pid=236 | exe=
+- CefSharp.BrowserSubprocess.exe | pid=23808 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- msedge.exe | pid=15624 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- RazerCortex.exe | pid=1300 | exe=C:\Program Files (x86)\Razer\Razer Cortex\RazerCortex.exe
+- Registry | pid=280 | exe=Registry
+- MemCompression | pid=2336 | exe=MemCompression
+- msedgewebview2.exe | pid=13608 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- CefSharp.BrowserSubprocess.exe | pid=11588 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- msedgewebview2.exe | pid=13644 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- CefSharp.BrowserSubprocess.exe | pid=23896 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- CefSharp.BrowserSubprocess.exe | pid=23904 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- OP.GG.exe | pid=24936 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=14704 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- OverwolfHelper.exe | pid=24944 | exe=C:\Program Files (x86)\Common Files\Overwolf\0.292.1.1\OverwolfHelper.exe
+- msedge.exe | pid=10628 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- firefox.exe | pid=31116 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=26024 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- OverwolfBrowser.exe | pid=5556 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- PowerModeWatcher.exe | pid=21956 | exe=C:\Program Files (x86)\MSI\MSI Center\AI Engine\PowerModeWatcher.exe
+- msedge.exe | pid=14796 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- OverwolfHelper64.exe | pid=25052 | exe=C:\Program Files (x86)\Common Files\Overwolf\0.292.1.1\OverwolfHelper64.exe
+- CortexLauncherService.exe | pid=4608 | exe=C:\Program Files (x86)\Razer\Razer Cortex\CortexLauncherService.exe
+- OverwolfBrowser.exe | pid=3596 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- AppleMobileDeviceService.exe | pid=4648 | exe=C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe
+- OP.GG.exe | pid=27176 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=16940 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- LightKeeperService.exe | pid=4656 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\LightKeeperService.exe
+- Code.exe | pid=20020 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MSI_Case_Service.exe | pid=4668 | exe=C:\Program Files (x86)\MSI\MSI Center\Case\MSI_Case_Service.exe
+- msedgewebview2.exe | pid=12860 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- Mystic_Light_Service.exe | pid=4676 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\Mystic_Light_Service.exe
+- MSI_Central_Service.exe | pid=4684 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI_Central_Service.exe
+- EpicGamesLauncher.exe | pid=11864 | exe=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+- msedgewebview2.exe | pid=26204 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=31324 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- firefox.exe | pid=32356 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- msedgewebview2.exe | pid=27244 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- NordUpdateService.exe | pid=4724 | exe=C:\Program Files\NordUpdater\NordUpdateService.exe
+- GameManagerService3.exe | pid=4740 | exe=C:\Program Files (x86)\Razer\Razer Services\GMS3\GameManagerService3.exe
+- RazerCentralService.exe | pid=4748 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\RazerCentralService.exe
+- msedgewebview2.exe | pid=14000 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- OP.GG.exe | pid=22192 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- firefox.exe | pid=4788 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=25268 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- OverwolfBrowser.exe | pid=31412 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- msedgewebview2.exe | pid=23228 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=32476 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OverwolfBrowser.exe | pid=23264 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- crashhelper.exe | pid=6892 | exe=C:\Program Files\Mozilla Firefox\crashhelper.exe
+- firefox.exe | pid=23280 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- DisplayFusionHookApp32.exe | pid=1780 | exe=C:\Program Files\DisplayFusion\DisplayFusionHookApp32.exe
+- msedge.exe | pid=20212 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- DisplayFusion.exe | pid=26360 | exe=C:\Program Files\DisplayFusion\DisplayFusion.exe
+- OP.GG.exe | pid=26376 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=11032 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- firefox.exe | pid=6940 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=19236 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=19260 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MSI.CentralServer.exe | pid=6976 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI.CentralServer.exe
+- Code.exe | pid=18252 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- firefox.exe | pid=10064 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- msedgewebview2.exe | pid=13140 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=17240 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OverwolfBrowser.exe | pid=16232 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- Razer Central.exe | pid=23404 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\Razer Central.exe
+- DisplayFusionService.exe | pid=31600 | exe=C:\Program Files\DisplayFusion\DisplayFusionService.exe
+- msedgewebview2.exe | pid=14208 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- msedgewebview2.exe | pid=26496 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=20380 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=18344 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=19376 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- msedge.exe | pid=15288 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- CefSharp.BrowserSubprocess.exe | pid=23480 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- Code.exe | pid=18368 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MicrosoftEdgeUpdate.exe | pid=8132 | exe=C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+- EpicWebHelper.exe | pid=24516 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- firefox.exe | pid=31696 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=19420 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- EpicWebHelper.exe | pid=17376 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- EpicWebHelper.exe | pid=24544 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- LEDKeeper2.exe | pid=8172 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\LEDKeeper2.exe
+- Overwolf.exe | pid=24560 | exe=C:\Program Files (x86)\Overwolf\Overwolf.exe
+- OverwolfBrowser.exe | pid=32764 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- System | pid=4 | exe=
+- DisplayFusionHookApp64.exe | pid=5148 | exe=C:\Program Files\DisplayFusion\DisplayFusionHookApp64.exe
+- Code.exe | pid=18464 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=32828 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- CC_Engine_x64.exe | pid=8256 | exe=C:\Program Files (x86)\MSI\MSI Center\Engine\CC_Engine_x64.exe
+- MSI.TerminalServer.exe | pid=14400 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI.TerminalServer.exe
+- OP.GG.exe | pid=4176 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- Code.exe | pid=14416 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- pet.exe | pid=19540 | exe=C:\Users\artem\.vscode\extensions\ms-python.python-2026.0.0-win32-x64\python-env-tools\bin\pet.exe
+- msedgewebview2.exe | pid=26720 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- nordvpn-service.exe | pid=4196 | exe=C:\Program Files\NordVPN\nordvpn-service.exe
+- OP.GG.exe | pid=23668 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- firefox.exe | pid=32936 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=26800 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedgewebview2.exe | pid=27824 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- msedge.exe | pid=10444 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- EpicWebHelper.exe | pid=23764 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+-  | pid=236 | exe=
+- CefSharp.BrowserSubprocess.exe | pid=23808 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- msedge.exe | pid=15624 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- RazerCortex.exe | pid=1300 | exe=C:\Program Files (x86)\Razer\Razer Cortex\RazerCortex.exe
+- Registry | pid=280 | exe=Registry
+- MemCompression | pid=2336 | exe=MemCompression
+- msedgewebview2.exe | pid=13608 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- CefSharp.BrowserSubprocess.exe | pid=11588 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- msedgewebview2.exe | pid=13644 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- CefSharp.BrowserSubprocess.exe | pid=23896 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- CefSharp.BrowserSubprocess.exe | pid=23904 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- OP.GG.exe | pid=24936 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=14704 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- OverwolfHelper.exe | pid=24944 | exe=C:\Program Files (x86)\Common Files\Overwolf\0.292.1.1\OverwolfHelper.exe
+- msedge.exe | pid=10628 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- firefox.exe | pid=31116 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=26024 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- OverwolfBrowser.exe | pid=5556 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- PowerModeWatcher.exe | pid=21956 | exe=C:\Program Files (x86)\MSI\MSI Center\AI Engine\PowerModeWatcher.exe
+- msedge.exe | pid=14796 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- OverwolfHelper64.exe | pid=25052 | exe=C:\Program Files (x86)\Common Files\Overwolf\0.292.1.1\OverwolfHelper64.exe
+- CortexLauncherService.exe | pid=4608 | exe=C:\Program Files (x86)\Razer\Razer Cortex\CortexLauncherService.exe
+- OverwolfBrowser.exe | pid=3596 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- AppleMobileDeviceService.exe | pid=4648 | exe=C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe
+- OP.GG.exe | pid=27176 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=16940 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- LightKeeperService.exe | pid=4656 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\LightKeeperService.exe
+- Code.exe | pid=20020 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MSI_Case_Service.exe | pid=4668 | exe=C:\Program Files (x86)\MSI\MSI Center\Case\MSI_Case_Service.exe
+- msedgewebview2.exe | pid=12860 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- Mystic_Light_Service.exe | pid=4676 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\Mystic_Light_Service.exe
+- MSI_Central_Service.exe | pid=4684 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI_Central_Service.exe
+- EpicGamesLauncher.exe | pid=11864 | exe=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+- msedgewebview2.exe | pid=26204 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=31324 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- firefox.exe | pid=32356 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- msedgewebview2.exe | pid=27244 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- NordUpdateService.exe | pid=4724 | exe=C:\Program Files\NordUpdater\NordUpdateService.exe
+- GameManagerService3.exe | pid=4740 | exe=C:\Program Files (x86)\Razer\Razer Services\GMS3\GameManagerService3.exe
+- RazerCentralService.exe | pid=4748 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\RazerCentralService.exe
+- msedgewebview2.exe | pid=14000 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- OP.GG.exe | pid=22192 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- firefox.exe | pid=4788 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=25268 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- OverwolfBrowser.exe | pid=31412 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- msedgewebview2.exe | pid=23228 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=32476 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OverwolfBrowser.exe | pid=23264 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- crashhelper.exe | pid=6892 | exe=C:\Program Files\Mozilla Firefox\crashhelper.exe
+- firefox.exe | pid=23280 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- DisplayFusionHookApp32.exe | pid=1780 | exe=C:\Program Files\DisplayFusion\DisplayFusionHookApp32.exe
+- msedge.exe | pid=20212 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- DisplayFusion.exe | pid=26360 | exe=C:\Program Files\DisplayFusion\DisplayFusion.exe
+- OP.GG.exe | pid=26376 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=11032 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- firefox.exe | pid=6940 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=19236 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=19260 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MSI.CentralServer.exe | pid=6976 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI.CentralServer.exe
+- Code.exe | pid=18252 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- firefox.exe | pid=10064 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- msedgewebview2.exe | pid=13140 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=17240 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OverwolfBrowser.exe | pid=16232 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- Razer Central.exe | pid=23404 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\Razer Central.exe
+- DisplayFusionService.exe | pid=31600 | exe=C:\Program Files\DisplayFusion\DisplayFusionService.exe
+- msedgewebview2.exe | pid=14208 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- msedgewebview2.exe | pid=26496 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=20380 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=18344 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=19376 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- msedge.exe | pid=15288 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- CefSharp.BrowserSubprocess.exe | pid=23480 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- Code.exe | pid=18368 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MicrosoftEdgeUpdate.exe | pid=8132 | exe=C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+- EpicWebHelper.exe | pid=24516 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- firefox.exe | pid=31696 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=19420 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- EpicWebHelper.exe | pid=17376 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- EpicWebHelper.exe | pid=24544 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- LEDKeeper2.exe | pid=8172 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\LEDKeeper2.exe
+- Overwolf.exe | pid=24560 | exe=C:\Program Files (x86)\Overwolf\Overwolf.exe
+- OverwolfBrowser.exe | pid=32764 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- System | pid=4 | exe=
+- DisplayFusionHookApp64.exe | pid=5148 | exe=C:\Program Files\DisplayFusion\DisplayFusionHookApp64.exe
+- Code.exe | pid=18464 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=32828 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- CC_Engine_x64.exe | pid=8256 | exe=C:\Program Files (x86)\MSI\MSI Center\Engine\CC_Engine_x64.exe
+- MSI.TerminalServer.exe | pid=14400 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI.TerminalServer.exe
+- OP.GG.exe | pid=4176 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- Code.exe | pid=14416 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- pet.exe | pid=19540 | exe=C:\Users\artem\.vscode\extensions\ms-python.python-2026.0.0-win32-x64\python-env-tools\bin\pet.exe
+- msedgewebview2.exe | pid=26720 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- nordvpn-service.exe | pid=4196 | exe=C:\Program Files\NordVPN\nordvpn-service.exe
+- OP.GG.exe | pid=23668 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- firefox.exe | pid=32936 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=26800 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedgewebview2.exe | pid=27824 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- msedge.exe | pid=10444 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- EpicWebHelper.exe | pid=23764 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+-  | pid=236 | exe=
+- CefSharp.BrowserSubprocess.exe | pid=23808 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- msedge.exe | pid=15624 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- RazerCortex.exe | pid=1300 | exe=C:\Program Files (x86)\Razer\Razer Cortex\RazerCortex.exe
+- Registry | pid=280 | exe=Registry
+- MemCompression | pid=2336 | exe=MemCompression
+- msedgewebview2.exe | pid=13608 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- CefSharp.BrowserSubprocess.exe | pid=11588 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- msedgewebview2.exe | pid=13644 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- CefSharp.BrowserSubprocess.exe | pid=23896 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- CefSharp.BrowserSubprocess.exe | pid=23904 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- OP.GG.exe | pid=24936 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=14704 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- OverwolfHelper.exe | pid=24944 | exe=C:\Program Files (x86)\Common Files\Overwolf\0.292.1.1\OverwolfHelper.exe
+- msedge.exe | pid=10628 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- firefox.exe | pid=31116 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=26024 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- OverwolfBrowser.exe | pid=5556 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- PowerModeWatcher.exe | pid=21956 | exe=C:\Program Files (x86)\MSI\MSI Center\AI Engine\PowerModeWatcher.exe
+- msedge.exe | pid=14796 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- OverwolfHelper64.exe | pid=25052 | exe=C:\Program Files (x86)\Common Files\Overwolf\0.292.1.1\OverwolfHelper64.exe
+- CortexLauncherService.exe | pid=4608 | exe=C:\Program Files (x86)\Razer\Razer Cortex\CortexLauncherService.exe
+- OverwolfBrowser.exe | pid=3596 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- AppleMobileDeviceService.exe | pid=4648 | exe=C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe
+- OP.GG.exe | pid=27176 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=16940 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- LightKeeperService.exe | pid=4656 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\LightKeeperService.exe
+- Code.exe | pid=20020 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MSI_Case_Service.exe | pid=4668 | exe=C:\Program Files (x86)\MSI\MSI Center\Case\MSI_Case_Service.exe
+- msedgewebview2.exe | pid=12860 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- Mystic_Light_Service.exe | pid=4676 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\Mystic_Light_Service.exe
+- MSI_Central_Service.exe | pid=4684 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI_Central_Service.exe
+- EpicGamesLauncher.exe | pid=11864 | exe=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+- msedgewebview2.exe | pid=26204 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=31324 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- firefox.exe | pid=32356 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- msedgewebview2.exe | pid=27244 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- NordUpdateService.exe | pid=4724 | exe=C:\Program Files\NordUpdater\NordUpdateService.exe
+- GameManagerService3.exe | pid=4740 | exe=C:\Program Files (x86)\Razer\Razer Services\GMS3\GameManagerService3.exe
+- RazerCentralService.exe | pid=4748 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\RazerCentralService.exe
+- msedgewebview2.exe | pid=14000 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- OP.GG.exe | pid=22192 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- firefox.exe | pid=4788 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=25268 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- OverwolfBrowser.exe | pid=31412 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- msedgewebview2.exe | pid=23228 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=32476 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OverwolfBrowser.exe | pid=23264 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- crashhelper.exe | pid=6892 | exe=C:\Program Files\Mozilla Firefox\crashhelper.exe
+- firefox.exe | pid=23280 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- DisplayFusionHookApp32.exe | pid=1780 | exe=C:\Program Files\DisplayFusion\DisplayFusionHookApp32.exe
+- msedge.exe | pid=20212 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- DisplayFusion.exe | pid=26360 | exe=C:\Program Files\DisplayFusion\DisplayFusion.exe
+- OP.GG.exe | pid=26376 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=11032 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- firefox.exe | pid=6940 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=19236 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=19260 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MSI.CentralServer.exe | pid=6976 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI.CentralServer.exe
+- Code.exe | pid=18252 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- firefox.exe | pid=10064 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- msedgewebview2.exe | pid=13140 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=17240 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OverwolfBrowser.exe | pid=16232 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- Razer Central.exe | pid=23404 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\Razer Central.exe
+- DisplayFusionService.exe | pid=31600 | exe=C:\Program Files\DisplayFusion\DisplayFusionService.exe
+- msedgewebview2.exe | pid=14208 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- msedgewebview2.exe | pid=26496 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=20380 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=18344 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=19376 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- msedge.exe | pid=15288 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- CefSharp.BrowserSubprocess.exe | pid=23480 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- Code.exe | pid=18368 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MicrosoftEdgeUpdate.exe | pid=8132 | exe=C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+- EpicWebHelper.exe | pid=24516 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- firefox.exe | pid=31696 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=19420 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- EpicWebHelper.exe | pid=17376 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- EpicWebHelper.exe | pid=24544 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- LEDKeeper2.exe | pid=8172 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\LEDKeeper2.exe
+- Overwolf.exe | pid=24560 | exe=C:\Program Files (x86)\Overwolf\Overwolf.exe
+- OverwolfBrowser.exe | pid=32764 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- System | pid=4 | exe=
+- DisplayFusionHookApp64.exe | pid=5148 | exe=C:\Program Files\DisplayFusion\DisplayFusionHookApp64.exe
+- Code.exe | pid=18464 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=32828 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- CC_Engine_x64.exe | pid=8256 | exe=C:\Program Files (x86)\MSI\MSI Center\Engine\CC_Engine_x64.exe
+- MSI.TerminalServer.exe | pid=14400 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI.TerminalServer.exe
+- OP.GG.exe | pid=4176 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- Code.exe | pid=14416 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- pet.exe | pid=19540 | exe=C:\Users\artem\.vscode\extensions\ms-python.python-2026.0.0-win32-x64\python-env-tools\bin\pet.exe
+- msedgewebview2.exe | pid=26720 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- nordvpn-service.exe | pid=4196 | exe=C:\Program Files\NordVPN\nordvpn-service.exe
+- OP.GG.exe | pid=23668 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- firefox.exe | pid=32936 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=26800 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedgewebview2.exe | pid=27824 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- msedge.exe | pid=10444 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- EpicWebHelper.exe | pid=23764 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+-  | pid=236 | exe=
+- CefSharp.BrowserSubprocess.exe | pid=23808 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- msedge.exe | pid=15624 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- RazerCortex.exe | pid=1300 | exe=C:\Program Files (x86)\Razer\Razer Cortex\RazerCortex.exe
+- Registry | pid=280 | exe=Registry
+- MemCompression | pid=2336 | exe=MemCompression
+- msedgewebview2.exe | pid=13608 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- CefSharp.BrowserSubprocess.exe | pid=11588 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- msedgewebview2.exe | pid=13644 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- CefSharp.BrowserSubprocess.exe | pid=23896 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- CefSharp.BrowserSubprocess.exe | pid=23904 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- OP.GG.exe | pid=24936 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=14704 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- OverwolfHelper.exe | pid=24944 | exe=C:\Program Files (x86)\Common Files\Overwolf\0.292.1.1\OverwolfHelper.exe
+- msedge.exe | pid=10628 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- firefox.exe | pid=31116 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=26024 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- OverwolfBrowser.exe | pid=5556 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- PowerModeWatcher.exe | pid=21956 | exe=C:\Program Files (x86)\MSI\MSI Center\AI Engine\PowerModeWatcher.exe
+- msedge.exe | pid=14796 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- OverwolfHelper64.exe | pid=25052 | exe=C:\Program Files (x86)\Common Files\Overwolf\0.292.1.1\OverwolfHelper64.exe
+- CortexLauncherService.exe | pid=4608 | exe=C:\Program Files (x86)\Razer\Razer Cortex\CortexLauncherService.exe
+- OverwolfBrowser.exe | pid=3596 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- AppleMobileDeviceService.exe | pid=4648 | exe=C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe
+- OP.GG.exe | pid=27176 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=16940 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- LightKeeperService.exe | pid=4656 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\LightKeeperService.exe
+- Code.exe | pid=20020 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MSI_Case_Service.exe | pid=4668 | exe=C:\Program Files (x86)\MSI\MSI Center\Case\MSI_Case_Service.exe
+- msedgewebview2.exe | pid=12860 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- Mystic_Light_Service.exe | pid=4676 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\Mystic_Light_Service.exe
+- MSI_Central_Service.exe | pid=4684 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI_Central_Service.exe
+- EpicGamesLauncher.exe | pid=11864 | exe=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+- msedgewebview2.exe | pid=26204 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=31324 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- firefox.exe | pid=32356 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- msedgewebview2.exe | pid=27244 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- NordUpdateService.exe | pid=4724 | exe=C:\Program Files\NordUpdater\NordUpdateService.exe
+- GameManagerService3.exe | pid=4740 | exe=C:\Program Files (x86)\Razer\Razer Services\GMS3\GameManagerService3.exe
+- RazerCentralService.exe | pid=4748 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\RazerCentralService.exe
+- msedgewebview2.exe | pid=14000 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- OP.GG.exe | pid=22192 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- firefox.exe | pid=4788 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=25268 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- OverwolfBrowser.exe | pid=31412 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- msedgewebview2.exe | pid=23228 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=32476 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OverwolfBrowser.exe | pid=23264 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- crashhelper.exe | pid=6892 | exe=C:\Program Files\Mozilla Firefox\crashhelper.exe
+- firefox.exe | pid=23280 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- DisplayFusionHookApp32.exe | pid=1780 | exe=C:\Program Files\DisplayFusion\DisplayFusionHookApp32.exe
+- msedge.exe | pid=20212 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- DisplayFusion.exe | pid=26360 | exe=C:\Program Files\DisplayFusion\DisplayFusion.exe
+- OP.GG.exe | pid=26376 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=11032 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- firefox.exe | pid=6940 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=19236 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=19260 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MSI.CentralServer.exe | pid=6976 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI.CentralServer.exe
+- Code.exe | pid=18252 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- firefox.exe | pid=10064 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- msedgewebview2.exe | pid=13140 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=17240 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OverwolfBrowser.exe | pid=16232 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- Razer Central.exe | pid=23404 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\Razer Central.exe
+- DisplayFusionService.exe | pid=31600 | exe=C:\Program Files\DisplayFusion\DisplayFusionService.exe
+- msedgewebview2.exe | pid=14208 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- msedgewebview2.exe | pid=26496 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=20380 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=18344 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=19376 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- msedge.exe | pid=15288 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- CefSharp.BrowserSubprocess.exe | pid=23480 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- Code.exe | pid=18368 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MicrosoftEdgeUpdate.exe | pid=8132 | exe=C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+- EpicWebHelper.exe | pid=24516 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- firefox.exe | pid=31696 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=19420 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- EpicWebHelper.exe | pid=17376 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- EpicWebHelper.exe | pid=24544 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- LEDKeeper2.exe | pid=8172 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\LEDKeeper2.exe
+- Overwolf.exe | pid=24560 | exe=C:\Program Files (x86)\Overwolf\Overwolf.exe
+- OverwolfBrowser.exe | pid=32764 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- System | pid=4 | exe=
+- DisplayFusionHookApp64.exe | pid=5148 | exe=C:\Program Files\DisplayFusion\DisplayFusionHookApp64.exe
+- Code.exe | pid=18464 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=32828 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- CC_Engine_x64.exe | pid=8256 | exe=C:\Program Files (x86)\MSI\MSI Center\Engine\CC_Engine_x64.exe
+- MSI.TerminalServer.exe | pid=14400 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI.TerminalServer.exe
+- OP.GG.exe | pid=4176 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- Code.exe | pid=14416 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- pet.exe | pid=19540 | exe=C:\Users\artem\.vscode\extensions\ms-python.python-2026.0.0-win32-x64\python-env-tools\bin\pet.exe
+- msedgewebview2.exe | pid=26720 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- nordvpn-service.exe | pid=4196 | exe=C:\Program Files\NordVPN\nordvpn-service.exe
+- OP.GG.exe | pid=23668 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- firefox.exe | pid=32936 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=26800 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedgewebview2.exe | pid=27824 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- msedge.exe | pid=10444 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- EpicWebHelper.exe | pid=23764 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+-  | pid=236 | exe=
+- CefSharp.BrowserSubprocess.exe | pid=23808 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- msedge.exe | pid=15624 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- RazerCortex.exe | pid=1300 | exe=C:\Program Files (x86)\Razer\Razer Cortex\RazerCortex.exe
+- Registry | pid=280 | exe=Registry
+- MemCompression | pid=2336 | exe=MemCompression
+- msedgewebview2.exe | pid=13608 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- CefSharp.BrowserSubprocess.exe | pid=11588 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- msedgewebview2.exe | pid=13644 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- CefSharp.BrowserSubprocess.exe | pid=23896 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- CefSharp.BrowserSubprocess.exe | pid=23904 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- OP.GG.exe | pid=24936 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=14704 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- OverwolfHelper.exe | pid=24944 | exe=C:\Program Files (x86)\Common Files\Overwolf\0.292.1.1\OverwolfHelper.exe
+- msedge.exe | pid=10628 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- firefox.exe | pid=31116 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=26024 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- OverwolfBrowser.exe | pid=5556 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- PowerModeWatcher.exe | pid=21956 | exe=C:\Program Files (x86)\MSI\MSI Center\AI Engine\PowerModeWatcher.exe
+- msedge.exe | pid=14796 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- OverwolfHelper64.exe | pid=25052 | exe=C:\Program Files (x86)\Common Files\Overwolf\0.292.1.1\OverwolfHelper64.exe
+- CortexLauncherService.exe | pid=4608 | exe=C:\Program Files (x86)\Razer\Razer Cortex\CortexLauncherService.exe
+- OverwolfBrowser.exe | pid=3596 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- AppleMobileDeviceService.exe | pid=4648 | exe=C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe
+- OP.GG.exe | pid=27176 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=16940 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- LightKeeperService.exe | pid=4656 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\LightKeeperService.exe
+- Code.exe | pid=20020 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MSI_Case_Service.exe | pid=4668 | exe=C:\Program Files (x86)\MSI\MSI Center\Case\MSI_Case_Service.exe
+- msedgewebview2.exe | pid=12860 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- Mystic_Light_Service.exe | pid=4676 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\Mystic_Light_Service.exe
+- MSI_Central_Service.exe | pid=4684 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI_Central_Service.exe
+- EpicGamesLauncher.exe | pid=11864 | exe=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+- msedgewebview2.exe | pid=26204 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=31324 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- firefox.exe | pid=32356 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- msedgewebview2.exe | pid=27244 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- NordUpdateService.exe | pid=4724 | exe=C:\Program Files\NordUpdater\NordUpdateService.exe
+- GameManagerService3.exe | pid=4740 | exe=C:\Program Files (x86)\Razer\Razer Services\GMS3\GameManagerService3.exe
+- RazerCentralService.exe | pid=4748 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\RazerCentralService.exe
+- msedgewebview2.exe | pid=14000 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- OP.GG.exe | pid=22192 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- firefox.exe | pid=4788 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=25268 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- OverwolfBrowser.exe | pid=31412 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- msedgewebview2.exe | pid=23228 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=32476 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OverwolfBrowser.exe | pid=23264 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- crashhelper.exe | pid=6892 | exe=C:\Program Files\Mozilla Firefox\crashhelper.exe
+- firefox.exe | pid=23280 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- DisplayFusionHookApp32.exe | pid=1780 | exe=C:\Program Files\DisplayFusion\DisplayFusionHookApp32.exe
+- msedge.exe | pid=20212 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- DisplayFusion.exe | pid=26360 | exe=C:\Program Files\DisplayFusion\DisplayFusion.exe
+- OP.GG.exe | pid=26376 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=11032 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- firefox.exe | pid=6940 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=19236 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=19260 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MSI.CentralServer.exe | pid=6976 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI.CentralServer.exe
+- Code.exe | pid=18252 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- firefox.exe | pid=10064 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- msedgewebview2.exe | pid=13140 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=17240 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OverwolfBrowser.exe | pid=16232 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- Razer Central.exe | pid=23404 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\Razer Central.exe
+- DisplayFusionService.exe | pid=31600 | exe=C:\Program Files\DisplayFusion\DisplayFusionService.exe
+- msedgewebview2.exe | pid=14208 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- msedgewebview2.exe | pid=26496 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=20380 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=18344 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=19376 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- msedge.exe | pid=15288 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- CefSharp.BrowserSubprocess.exe | pid=23480 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- Code.exe | pid=18368 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MicrosoftEdgeUpdate.exe | pid=8132 | exe=C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+- EpicWebHelper.exe | pid=24516 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- firefox.exe | pid=31696 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=19420 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- EpicWebHelper.exe | pid=17376 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- EpicWebHelper.exe | pid=24544 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- LEDKeeper2.exe | pid=8172 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\LEDKeeper2.exe
+- Overwolf.exe | pid=24560 | exe=C:\Program Files (x86)\Overwolf\Overwolf.exe
+- OverwolfBrowser.exe | pid=32764 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- System | pid=4 | exe=
+- DisplayFusionHookApp64.exe | pid=5148 | exe=C:\Program Files\DisplayFusion\DisplayFusionHookApp64.exe
+- Code.exe | pid=18464 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=32828 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- CC_Engine_x64.exe | pid=8256 | exe=C:\Program Files (x86)\MSI\MSI Center\Engine\CC_Engine_x64.exe
+- MSI.TerminalServer.exe | pid=14400 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI.TerminalServer.exe
+- OP.GG.exe | pid=4176 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- Code.exe | pid=14416 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- pet.exe | pid=19540 | exe=C:\Users\artem\.vscode\extensions\ms-python.python-2026.0.0-win32-x64\python-env-tools\bin\pet.exe
+- msedgewebview2.exe | pid=26720 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- nordvpn-service.exe | pid=4196 | exe=C:\Program Files\NordVPN\nordvpn-service.exe
+- OP.GG.exe | pid=23668 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- firefox.exe | pid=32936 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=26800 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedgewebview2.exe | pid=27824 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- msedge.exe | pid=10444 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- EpicWebHelper.exe | pid=23764 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+-  | pid=236 | exe=
+- CefSharp.BrowserSubprocess.exe | pid=23808 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- msedge.exe | pid=15624 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- RazerCortex.exe | pid=1300 | exe=C:\Program Files (x86)\Razer\Razer Cortex\RazerCortex.exe
+- Registry | pid=280 | exe=Registry
+- MemCompression | pid=2336 | exe=MemCompression
+- msedgewebview2.exe | pid=13608 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- CefSharp.BrowserSubprocess.exe | pid=11588 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- msedgewebview2.exe | pid=13644 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- CefSharp.BrowserSubprocess.exe | pid=23896 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- CefSharp.BrowserSubprocess.exe | pid=23904 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- OP.GG.exe | pid=24936 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=14704 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- OverwolfHelper.exe | pid=24944 | exe=C:\Program Files (x86)\Common Files\Overwolf\0.292.1.1\OverwolfHelper.exe
+- msedge.exe | pid=10628 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- firefox.exe | pid=31116 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=26024 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- OverwolfBrowser.exe | pid=5556 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- PowerModeWatcher.exe | pid=21956 | exe=C:\Program Files (x86)\MSI\MSI Center\AI Engine\PowerModeWatcher.exe
+- msedge.exe | pid=14796 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- OverwolfHelper64.exe | pid=25052 | exe=C:\Program Files (x86)\Common Files\Overwolf\0.292.1.1\OverwolfHelper64.exe
+- CortexLauncherService.exe | pid=4608 | exe=C:\Program Files (x86)\Razer\Razer Cortex\CortexLauncherService.exe
+- OverwolfBrowser.exe | pid=3596 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- AppleMobileDeviceService.exe | pid=4648 | exe=C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe
+- OP.GG.exe | pid=27176 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=16940 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- LightKeeperService.exe | pid=4656 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\LightKeeperService.exe
+- Code.exe | pid=20020 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MSI_Case_Service.exe | pid=4668 | exe=C:\Program Files (x86)\MSI\MSI Center\Case\MSI_Case_Service.exe
+- msedgewebview2.exe | pid=12860 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- Mystic_Light_Service.exe | pid=4676 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\Mystic_Light_Service.exe
+- MSI_Central_Service.exe | pid=4684 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI_Central_Service.exe
+- EpicGamesLauncher.exe | pid=11864 | exe=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+- msedgewebview2.exe | pid=26204 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=31324 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- firefox.exe | pid=32356 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- msedgewebview2.exe | pid=27244 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- NordUpdateService.exe | pid=4724 | exe=C:\Program Files\NordUpdater\NordUpdateService.exe
+- GameManagerService3.exe | pid=4740 | exe=C:\Program Files (x86)\Razer\Razer Services\GMS3\GameManagerService3.exe
+- RazerCentralService.exe | pid=4748 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\RazerCentralService.exe
+- msedgewebview2.exe | pid=14000 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- OP.GG.exe | pid=22192 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- firefox.exe | pid=4788 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=25268 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- OverwolfBrowser.exe | pid=31412 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- msedgewebview2.exe | pid=23228 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=32476 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OverwolfBrowser.exe | pid=23264 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- crashhelper.exe | pid=6892 | exe=C:\Program Files\Mozilla Firefox\crashhelper.exe
+- firefox.exe | pid=23280 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- DisplayFusionHookApp32.exe | pid=1780 | exe=C:\Program Files\DisplayFusion\DisplayFusionHookApp32.exe
+- msedge.exe | pid=20212 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- DisplayFusion.exe | pid=26360 | exe=C:\Program Files\DisplayFusion\DisplayFusion.exe
+- OP.GG.exe | pid=26376 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=11032 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- firefox.exe | pid=6940 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=19236 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=19260 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MSI.CentralServer.exe | pid=6976 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI.CentralServer.exe
+- Code.exe | pid=18252 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- firefox.exe | pid=10064 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- msedgewebview2.exe | pid=13140 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=17240 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OverwolfBrowser.exe | pid=16232 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- Razer Central.exe | pid=23404 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\Razer Central.exe
+- DisplayFusionService.exe | pid=31600 | exe=C:\Program Files\DisplayFusion\DisplayFusionService.exe
+- msedgewebview2.exe | pid=14208 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- msedgewebview2.exe | pid=26496 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=20380 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=18344 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=19376 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- msedge.exe | pid=15288 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- CefSharp.BrowserSubprocess.exe | pid=23480 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- Code.exe | pid=18368 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MicrosoftEdgeUpdate.exe | pid=8132 | exe=C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+- EpicWebHelper.exe | pid=24516 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- firefox.exe | pid=31696 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=19420 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- EpicWebHelper.exe | pid=17376 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- EpicWebHelper.exe | pid=24544 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- LEDKeeper2.exe | pid=8172 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\LEDKeeper2.exe
+- Overwolf.exe | pid=24560 | exe=C:\Program Files (x86)\Overwolf\Overwolf.exe
+- OverwolfBrowser.exe | pid=32764 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- System | pid=4 | exe=
+- DisplayFusionHookApp64.exe | pid=5148 | exe=C:\Program Files\DisplayFusion\DisplayFusionHookApp64.exe
+- Code.exe | pid=18464 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=32828 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- CC_Engine_x64.exe | pid=8256 | exe=C:\Program Files (x86)\MSI\MSI Center\Engine\CC_Engine_x64.exe
+- MSI.TerminalServer.exe | pid=14400 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI.TerminalServer.exe
+- OP.GG.exe | pid=4176 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- Code.exe | pid=14416 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- pet.exe | pid=19540 | exe=C:\Users\artem\.vscode\extensions\ms-python.python-2026.0.0-win32-x64\python-env-tools\bin\pet.exe
+- msedgewebview2.exe | pid=26720 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- nordvpn-service.exe | pid=4196 | exe=C:\Program Files\NordVPN\nordvpn-service.exe
+- OP.GG.exe | pid=23668 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- firefox.exe | pid=32936 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=26800 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedgewebview2.exe | pid=27824 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- msedge.exe | pid=10444 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- EpicWebHelper.exe | pid=23764 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+-  | pid=236 | exe=
+- CefSharp.BrowserSubprocess.exe | pid=23808 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- msedge.exe | pid=15624 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- RazerCortex.exe | pid=1300 | exe=C:\Program Files (x86)\Razer\Razer Cortex\RazerCortex.exe
+- Registry | pid=280 | exe=Registry
+- MemCompression | pid=2336 | exe=MemCompression
+- msedgewebview2.exe | pid=13608 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- CefSharp.BrowserSubprocess.exe | pid=11588 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- msedgewebview2.exe | pid=13644 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- CefSharp.BrowserSubprocess.exe | pid=23896 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- CefSharp.BrowserSubprocess.exe | pid=23904 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- OP.GG.exe | pid=24936 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=14704 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- OverwolfHelper.exe | pid=24944 | exe=C:\Program Files (x86)\Common Files\Overwolf\0.292.1.1\OverwolfHelper.exe
+- msedge.exe | pid=10628 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- firefox.exe | pid=31116 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=26024 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- OverwolfBrowser.exe | pid=5556 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- PowerModeWatcher.exe | pid=21956 | exe=C:\Program Files (x86)\MSI\MSI Center\AI Engine\PowerModeWatcher.exe
+- msedge.exe | pid=14796 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- OverwolfHelper64.exe | pid=25052 | exe=C:\Program Files (x86)\Common Files\Overwolf\0.292.1.1\OverwolfHelper64.exe
+- CortexLauncherService.exe | pid=4608 | exe=C:\Program Files (x86)\Razer\Razer Cortex\CortexLauncherService.exe
+- OverwolfBrowser.exe | pid=3596 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- AppleMobileDeviceService.exe | pid=4648 | exe=C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe
+- OP.GG.exe | pid=27176 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=16940 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- LightKeeperService.exe | pid=4656 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\LightKeeperService.exe
+- Code.exe | pid=20020 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MSI_Case_Service.exe | pid=4668 | exe=C:\Program Files (x86)\MSI\MSI Center\Case\MSI_Case_Service.exe
+- msedgewebview2.exe | pid=12860 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- Mystic_Light_Service.exe | pid=4676 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\Mystic_Light_Service.exe
+- MSI_Central_Service.exe | pid=4684 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI_Central_Service.exe
+- EpicGamesLauncher.exe | pid=11864 | exe=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+- msedgewebview2.exe | pid=26204 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=31324 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- firefox.exe | pid=32356 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- msedgewebview2.exe | pid=27244 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- NordUpdateService.exe | pid=4724 | exe=C:\Program Files\NordUpdater\NordUpdateService.exe
+- GameManagerService3.exe | pid=4740 | exe=C:\Program Files (x86)\Razer\Razer Services\GMS3\GameManagerService3.exe
+- RazerCentralService.exe | pid=4748 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\RazerCentralService.exe
+- msedgewebview2.exe | pid=14000 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- OP.GG.exe | pid=22192 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- firefox.exe | pid=4788 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=25268 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- OverwolfBrowser.exe | pid=31412 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- msedgewebview2.exe | pid=23228 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=32476 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OverwolfBrowser.exe | pid=23264 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- crashhelper.exe | pid=6892 | exe=C:\Program Files\Mozilla Firefox\crashhelper.exe
+- firefox.exe | pid=23280 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- DisplayFusionHookApp32.exe | pid=1780 | exe=C:\Program Files\DisplayFusion\DisplayFusionHookApp32.exe
+- msedge.exe | pid=20212 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- DisplayFusion.exe | pid=26360 | exe=C:\Program Files\DisplayFusion\DisplayFusion.exe
+- OP.GG.exe | pid=26376 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=11032 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- firefox.exe | pid=6940 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=19236 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=19260 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MSI.CentralServer.exe | pid=6976 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI.CentralServer.exe
+- Code.exe | pid=18252 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- firefox.exe | pid=10064 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- msedgewebview2.exe | pid=13140 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=17240 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OverwolfBrowser.exe | pid=16232 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- Razer Central.exe | pid=23404 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\Razer Central.exe
+- DisplayFusionService.exe | pid=31600 | exe=C:\Program Files\DisplayFusion\DisplayFusionService.exe
+- msedgewebview2.exe | pid=14208 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- msedgewebview2.exe | pid=26496 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=20380 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=18344 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=19376 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- msedge.exe | pid=15288 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- CefSharp.BrowserSubprocess.exe | pid=23480 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- Code.exe | pid=18368 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MicrosoftEdgeUpdate.exe | pid=8132 | exe=C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+- EpicWebHelper.exe | pid=24516 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- firefox.exe | pid=31696 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=19420 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- EpicWebHelper.exe | pid=17376 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- EpicWebHelper.exe | pid=24544 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- LEDKeeper2.exe | pid=8172 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\LEDKeeper2.exe
+- Overwolf.exe | pid=24560 | exe=C:\Program Files (x86)\Overwolf\Overwolf.exe
+- OverwolfBrowser.exe | pid=32764 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- System | pid=4 | exe=
+- DisplayFusionHookApp64.exe | pid=5148 | exe=C:\Program Files\DisplayFusion\DisplayFusionHookApp64.exe
+- Code.exe | pid=18464 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=32828 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- CC_Engine_x64.exe | pid=8256 | exe=C:\Program Files (x86)\MSI\MSI Center\Engine\CC_Engine_x64.exe
+- MSI.TerminalServer.exe | pid=14400 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI.TerminalServer.exe
+- OP.GG.exe | pid=4176 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- Code.exe | pid=14416 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- pet.exe | pid=19540 | exe=C:\Users\artem\.vscode\extensions\ms-python.python-2026.0.0-win32-x64\python-env-tools\bin\pet.exe
+- msedgewebview2.exe | pid=26720 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- nordvpn-service.exe | pid=4196 | exe=C:\Program Files\NordVPN\nordvpn-service.exe
+- OP.GG.exe | pid=23668 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- firefox.exe | pid=32936 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=26800 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedgewebview2.exe | pid=27824 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- msedge.exe | pid=10444 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- EpicWebHelper.exe | pid=23764 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+-  | pid=236 | exe=
+- CefSharp.BrowserSubprocess.exe | pid=23808 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- msedge.exe | pid=15624 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- RazerCortex.exe | pid=1300 | exe=C:\Program Files (x86)\Razer\Razer Cortex\RazerCortex.exe
+- Registry | pid=280 | exe=Registry
+- MemCompression | pid=2336 | exe=MemCompression
+- msedgewebview2.exe | pid=13608 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- CefSharp.BrowserSubprocess.exe | pid=11588 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- msedgewebview2.exe | pid=13644 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- CefSharp.BrowserSubprocess.exe | pid=23896 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- CefSharp.BrowserSubprocess.exe | pid=23904 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- OP.GG.exe | pid=24936 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=14704 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- OverwolfHelper.exe | pid=24944 | exe=C:\Program Files (x86)\Common Files\Overwolf\0.292.1.1\OverwolfHelper.exe
+- msedge.exe | pid=10628 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- firefox.exe | pid=31116 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=26024 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- OverwolfBrowser.exe | pid=5556 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- PowerModeWatcher.exe | pid=21956 | exe=C:\Program Files (x86)\MSI\MSI Center\AI Engine\PowerModeWatcher.exe
+- msedge.exe | pid=14796 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- OverwolfHelper64.exe | pid=25052 | exe=C:\Program Files (x86)\Common Files\Overwolf\0.292.1.1\OverwolfHelper64.exe
+- CortexLauncherService.exe | pid=4608 | exe=C:\Program Files (x86)\Razer\Razer Cortex\CortexLauncherService.exe
+- OverwolfBrowser.exe | pid=3596 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- AppleMobileDeviceService.exe | pid=4648 | exe=C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe
+- OP.GG.exe | pid=27176 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=16940 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- LightKeeperService.exe | pid=4656 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\LightKeeperService.exe
+- Code.exe | pid=20020 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MSI_Case_Service.exe | pid=4668 | exe=C:\Program Files (x86)\MSI\MSI Center\Case\MSI_Case_Service.exe
+- msedgewebview2.exe | pid=12860 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- Mystic_Light_Service.exe | pid=4676 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\Mystic_Light_Service.exe
+- MSI_Central_Service.exe | pid=4684 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI_Central_Service.exe
+- EpicGamesLauncher.exe | pid=11864 | exe=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+- msedgewebview2.exe | pid=26204 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=31324 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- firefox.exe | pid=32356 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- msedgewebview2.exe | pid=27244 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- NordUpdateService.exe | pid=4724 | exe=C:\Program Files\NordUpdater\NordUpdateService.exe
+- GameManagerService3.exe | pid=4740 | exe=C:\Program Files (x86)\Razer\Razer Services\GMS3\GameManagerService3.exe
+- RazerCentralService.exe | pid=4748 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\RazerCentralService.exe
+- msedgewebview2.exe | pid=14000 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- OP.GG.exe | pid=22192 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- firefox.exe | pid=4788 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=25268 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- OverwolfBrowser.exe | pid=31412 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- msedgewebview2.exe | pid=23228 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=32476 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OverwolfBrowser.exe | pid=23264 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- crashhelper.exe | pid=6892 | exe=C:\Program Files\Mozilla Firefox\crashhelper.exe
+- firefox.exe | pid=23280 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- DisplayFusionHookApp32.exe | pid=1780 | exe=C:\Program Files\DisplayFusion\DisplayFusionHookApp32.exe
+- msedge.exe | pid=20212 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- DisplayFusion.exe | pid=26360 | exe=C:\Program Files\DisplayFusion\DisplayFusion.exe
+- OP.GG.exe | pid=26376 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=11032 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- firefox.exe | pid=6940 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=19236 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=19260 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MSI.CentralServer.exe | pid=6976 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI.CentralServer.exe
+- Code.exe | pid=18252 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- firefox.exe | pid=10064 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- msedgewebview2.exe | pid=13140 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=17240 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OverwolfBrowser.exe | pid=16232 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- Razer Central.exe | pid=23404 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\Razer Central.exe
+- DisplayFusionService.exe | pid=31600 | exe=C:\Program Files\DisplayFusion\DisplayFusionService.exe
+- msedgewebview2.exe | pid=14208 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- msedgewebview2.exe | pid=26496 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=20380 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=18344 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=19376 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- msedge.exe | pid=15288 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- CefSharp.BrowserSubprocess.exe | pid=23480 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- Code.exe | pid=18368 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MicrosoftEdgeUpdate.exe | pid=8132 | exe=C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+- EpicWebHelper.exe | pid=24516 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- firefox.exe | pid=31696 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=19420 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- EpicWebHelper.exe | pid=17376 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- EpicWebHelper.exe | pid=24544 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- LEDKeeper2.exe | pid=8172 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\LEDKeeper2.exe
+- Overwolf.exe | pid=24560 | exe=C:\Program Files (x86)\Overwolf\Overwolf.exe
+- OverwolfBrowser.exe | pid=32764 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- System | pid=4 | exe=
+- DisplayFusionHookApp64.exe | pid=5148 | exe=C:\Program Files\DisplayFusion\DisplayFusionHookApp64.exe
+- Code.exe | pid=18464 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=32828 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- CC_Engine_x64.exe | pid=8256 | exe=C:\Program Files (x86)\MSI\MSI Center\Engine\CC_Engine_x64.exe
+- MSI.TerminalServer.exe | pid=14400 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI.TerminalServer.exe
+- OP.GG.exe | pid=4176 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- Code.exe | pid=14416 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- pet.exe | pid=19540 | exe=C:\Users\artem\.vscode\extensions\ms-python.python-2026.0.0-win32-x64\python-env-tools\bin\pet.exe
+- msedgewebview2.exe | pid=26720 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- nordvpn-service.exe | pid=4196 | exe=C:\Program Files\NordVPN\nordvpn-service.exe
+- OP.GG.exe | pid=23668 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- firefox.exe | pid=32936 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=26800 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedgewebview2.exe | pid=27824 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- msedge.exe | pid=10444 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- EpicWebHelper.exe | pid=23764 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+-  | pid=236 | exe=
+- CefSharp.BrowserSubprocess.exe | pid=23808 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- msedge.exe | pid=15624 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- RazerCortex.exe | pid=1300 | exe=C:\Program Files (x86)\Razer\Razer Cortex\RazerCortex.exe
+- Registry | pid=280 | exe=Registry
+- MemCompression | pid=2336 | exe=MemCompression
+- msedgewebview2.exe | pid=13608 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- CefSharp.BrowserSubprocess.exe | pid=11588 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- msedgewebview2.exe | pid=13644 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- CefSharp.BrowserSubprocess.exe | pid=23896 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- CefSharp.BrowserSubprocess.exe | pid=23904 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- OP.GG.exe | pid=24936 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=14704 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- OverwolfHelper.exe | pid=24944 | exe=C:\Program Files (x86)\Common Files\Overwolf\0.292.1.1\OverwolfHelper.exe
+- msedge.exe | pid=10628 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- firefox.exe | pid=31116 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=26024 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- OverwolfBrowser.exe | pid=5556 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- PowerModeWatcher.exe | pid=21956 | exe=C:\Program Files (x86)\MSI\MSI Center\AI Engine\PowerModeWatcher.exe
+- msedge.exe | pid=14796 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- OverwolfHelper64.exe | pid=25052 | exe=C:\Program Files (x86)\Common Files\Overwolf\0.292.1.1\OverwolfHelper64.exe
+- CortexLauncherService.exe | pid=4608 | exe=C:\Program Files (x86)\Razer\Razer Cortex\CortexLauncherService.exe
+- OverwolfBrowser.exe | pid=3596 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- AppleMobileDeviceService.exe | pid=4648 | exe=C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe
+- OP.GG.exe | pid=27176 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=16940 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- LightKeeperService.exe | pid=4656 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\LightKeeperService.exe
+- Code.exe | pid=20020 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MSI_Case_Service.exe | pid=4668 | exe=C:\Program Files (x86)\MSI\MSI Center\Case\MSI_Case_Service.exe
+- msedgewebview2.exe | pid=12860 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- Mystic_Light_Service.exe | pid=4676 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\Mystic_Light_Service.exe
+- MSI_Central_Service.exe | pid=4684 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI_Central_Service.exe
+- EpicGamesLauncher.exe | pid=11864 | exe=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+- msedgewebview2.exe | pid=26204 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=31324 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- firefox.exe | pid=32356 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- msedgewebview2.exe | pid=27244 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- NordUpdateService.exe | pid=4724 | exe=C:\Program Files\NordUpdater\NordUpdateService.exe
+- GameManagerService3.exe | pid=4740 | exe=C:\Program Files (x86)\Razer\Razer Services\GMS3\GameManagerService3.exe
+- RazerCentralService.exe | pid=4748 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\RazerCentralService.exe
+- msedgewebview2.exe | pid=14000 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- OP.GG.exe | pid=22192 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- firefox.exe | pid=4788 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=25268 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- OverwolfBrowser.exe | pid=31412 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- msedgewebview2.exe | pid=23228 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=32476 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OverwolfBrowser.exe | pid=23264 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- crashhelper.exe | pid=6892 | exe=C:\Program Files\Mozilla Firefox\crashhelper.exe
+- firefox.exe | pid=23280 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- DisplayFusionHookApp32.exe | pid=1780 | exe=C:\Program Files\DisplayFusion\DisplayFusionHookApp32.exe
+- msedge.exe | pid=20212 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- DisplayFusion.exe | pid=26360 | exe=C:\Program Files\DisplayFusion\DisplayFusion.exe
+- OP.GG.exe | pid=26376 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=11032 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- firefox.exe | pid=6940 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=19236 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=19260 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MSI.CentralServer.exe | pid=6976 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI.CentralServer.exe
+- Code.exe | pid=18252 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- firefox.exe | pid=10064 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- msedgewebview2.exe | pid=13140 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=17240 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OverwolfBrowser.exe | pid=16232 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- Razer Central.exe | pid=23404 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\Razer Central.exe
+- DisplayFusionService.exe | pid=31600 | exe=C:\Program Files\DisplayFusion\DisplayFusionService.exe
+- msedgewebview2.exe | pid=14208 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- msedgewebview2.exe | pid=26496 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=20380 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=18344 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=19376 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- msedge.exe | pid=15288 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- CefSharp.BrowserSubprocess.exe | pid=23480 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- Code.exe | pid=18368 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MicrosoftEdgeUpdate.exe | pid=8132 | exe=C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+- EpicWebHelper.exe | pid=24516 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- firefox.exe | pid=31696 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=19420 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- EpicWebHelper.exe | pid=17376 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- EpicWebHelper.exe | pid=24544 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- LEDKeeper2.exe | pid=8172 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\LEDKeeper2.exe
+- Overwolf.exe | pid=24560 | exe=C:\Program Files (x86)\Overwolf\Overwolf.exe
+- OverwolfBrowser.exe | pid=32764 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- System | pid=4 | exe=
+- DisplayFusionHookApp64.exe | pid=5148 | exe=C:\Program Files\DisplayFusion\DisplayFusionHookApp64.exe
+- Code.exe | pid=18464 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=32828 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- CC_Engine_x64.exe | pid=8256 | exe=C:\Program Files (x86)\MSI\MSI Center\Engine\CC_Engine_x64.exe
+- MSI.TerminalServer.exe | pid=14400 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI.TerminalServer.exe
+- OP.GG.exe | pid=4176 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- Code.exe | pid=14416 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- pet.exe | pid=19540 | exe=C:\Users\artem\.vscode\extensions\ms-python.python-2026.0.0-win32-x64\python-env-tools\bin\pet.exe
+- msedgewebview2.exe | pid=26720 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- nordvpn-service.exe | pid=4196 | exe=C:\Program Files\NordVPN\nordvpn-service.exe
+- OP.GG.exe | pid=23668 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- firefox.exe | pid=32936 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=26800 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedgewebview2.exe | pid=27824 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- msedge.exe | pid=10444 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- EpicWebHelper.exe | pid=23764 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+-  | pid=236 | exe=
+- CefSharp.BrowserSubprocess.exe | pid=23808 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- msedge.exe | pid=15624 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- RazerCortex.exe | pid=1300 | exe=C:\Program Files (x86)\Razer\Razer Cortex\RazerCortex.exe
+- Registry | pid=280 | exe=Registry
+- MemCompression | pid=2336 | exe=MemCompression
+- msedgewebview2.exe | pid=13608 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- CefSharp.BrowserSubprocess.exe | pid=11588 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- msedgewebview2.exe | pid=13644 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- CefSharp.BrowserSubprocess.exe | pid=23896 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- CefSharp.BrowserSubprocess.exe | pid=23904 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- OP.GG.exe | pid=24936 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=14704 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- OverwolfHelper.exe | pid=24944 | exe=C:\Program Files (x86)\Common Files\Overwolf\0.292.1.1\OverwolfHelper.exe
+- firefox.exe | pid=31116 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=26024 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- OverwolfBrowser.exe | pid=5556 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- PowerModeWatcher.exe | pid=21956 | exe=C:\Program Files (x86)\MSI\MSI Center\AI Engine\PowerModeWatcher.exe
+- msedge.exe | pid=14796 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- OverwolfHelper64.exe | pid=25052 | exe=C:\Program Files (x86)\Common Files\Overwolf\0.292.1.1\OverwolfHelper64.exe
+- CortexLauncherService.exe | pid=4608 | exe=C:\Program Files (x86)\Razer\Razer Cortex\CortexLauncherService.exe
+- OverwolfBrowser.exe | pid=3596 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- AppleMobileDeviceService.exe | pid=4648 | exe=C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe
+- OP.GG.exe | pid=27176 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- LightKeeperService.exe | pid=4656 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\LightKeeperService.exe
+- Code.exe | pid=20020 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MSI_Case_Service.exe | pid=4668 | exe=C:\Program Files (x86)\MSI\MSI Center\Case\MSI_Case_Service.exe
+- msedgewebview2.exe | pid=12860 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- Mystic_Light_Service.exe | pid=4676 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\Mystic_Light_Service.exe
+- MSI_Central_Service.exe | pid=4684 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI_Central_Service.exe
+- EpicGamesLauncher.exe | pid=11864 | exe=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+- msedgewebview2.exe | pid=26204 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=31324 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- firefox.exe | pid=32356 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- msedgewebview2.exe | pid=27244 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- NordUpdateService.exe | pid=4724 | exe=C:\Program Files\NordUpdater\NordUpdateService.exe
+- GameManagerService3.exe | pid=4740 | exe=C:\Program Files (x86)\Razer\Razer Services\GMS3\GameManagerService3.exe
+- RazerCentralService.exe | pid=4748 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\RazerCentralService.exe
+- msedgewebview2.exe | pid=14000 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- OP.GG.exe | pid=22192 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- firefox.exe | pid=4788 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=25268 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- OverwolfBrowser.exe | pid=31412 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- msedgewebview2.exe | pid=23228 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=32476 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OverwolfBrowser.exe | pid=23264 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- crashhelper.exe | pid=6892 | exe=C:\Program Files\Mozilla Firefox\crashhelper.exe
+- firefox.exe | pid=23280 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- DisplayFusionHookApp32.exe | pid=1780 | exe=C:\Program Files\DisplayFusion\DisplayFusionHookApp32.exe
+- DisplayFusion.exe | pid=26360 | exe=C:\Program Files\DisplayFusion\DisplayFusion.exe
+- OP.GG.exe | pid=26376 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedge.exe | pid=11032 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+- firefox.exe | pid=6940 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=19236 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=19260 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MSI.CentralServer.exe | pid=6976 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI.CentralServer.exe
+- Code.exe | pid=18252 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- firefox.exe | pid=10064 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- msedgewebview2.exe | pid=13140 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=17240 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OverwolfBrowser.exe | pid=16232 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- Razer Central.exe | pid=23404 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\Razer Central.exe
+- DisplayFusionService.exe | pid=31600 | exe=C:\Program Files\DisplayFusion\DisplayFusionService.exe
+- msedgewebview2.exe | pid=14208 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- msedgewebview2.exe | pid=26496 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=20380 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=18344 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=19376 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- CefSharp.BrowserSubprocess.exe | pid=23480 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- Code.exe | pid=18368 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MicrosoftEdgeUpdate.exe | pid=8132 | exe=C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+- EpicWebHelper.exe | pid=24516 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- firefox.exe | pid=31696 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=19420 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- EpicWebHelper.exe | pid=17376 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- EpicWebHelper.exe | pid=24544 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- LEDKeeper2.exe | pid=8172 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\LEDKeeper2.exe
+- Overwolf.exe | pid=24560 | exe=C:\Program Files (x86)\Overwolf\Overwolf.exe
+- OverwolfBrowser.exe | pid=32764 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- System | pid=4 | exe=
+- DisplayFusionHookApp64.exe | pid=5148 | exe=C:\Program Files\DisplayFusion\DisplayFusionHookApp64.exe
+- Code.exe | pid=18464 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=32828 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- CC_Engine_x64.exe | pid=8256 | exe=C:\Program Files (x86)\MSI\MSI Center\Engine\CC_Engine_x64.exe
+- MSI.TerminalServer.exe | pid=14400 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI.TerminalServer.exe
+- OP.GG.exe | pid=4176 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- Code.exe | pid=14416 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- pet.exe | pid=19540 | exe=C:\Users\artem\.vscode\extensions\ms-python.python-2026.0.0-win32-x64\python-env-tools\bin\pet.exe
+- msedgewebview2.exe | pid=26720 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- nordvpn-service.exe | pid=4196 | exe=C:\Program Files\NordVPN\nordvpn-service.exe
+- OP.GG.exe | pid=23668 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- firefox.exe | pid=32936 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=26800 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedgewebview2.exe | pid=27824 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- EpicWebHelper.exe | pid=23764 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+-  | pid=236 | exe=
+- CefSharp.BrowserSubprocess.exe | pid=23808 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- RazerCortex.exe | pid=1300 | exe=C:\Program Files (x86)\Razer\Razer Cortex\RazerCortex.exe
+- Registry | pid=280 | exe=Registry
+- MemCompression | pid=2336 | exe=MemCompression
+- msedgewebview2.exe | pid=13608 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- CefSharp.BrowserSubprocess.exe | pid=11588 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- msedgewebview2.exe | pid=13644 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- CefSharp.BrowserSubprocess.exe | pid=23896 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- CefSharp.BrowserSubprocess.exe | pid=23904 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- OP.GG.exe | pid=24936 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- OverwolfHelper.exe | pid=24944 | exe=C:\Program Files (x86)\Common Files\Overwolf\0.292.1.1\OverwolfHelper.exe
+- firefox.exe | pid=31116 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=26024 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- OverwolfBrowser.exe | pid=5556 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- PowerModeWatcher.exe | pid=21956 | exe=C:\Program Files (x86)\MSI\MSI Center\AI Engine\PowerModeWatcher.exe
+- OverwolfHelper64.exe | pid=25052 | exe=C:\Program Files (x86)\Common Files\Overwolf\0.292.1.1\OverwolfHelper64.exe
+- CortexLauncherService.exe | pid=4608 | exe=C:\Program Files (x86)\Razer\Razer Cortex\CortexLauncherService.exe
+- OverwolfBrowser.exe | pid=3596 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- AppleMobileDeviceService.exe | pid=4648 | exe=C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe
+- OP.GG.exe | pid=27176 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- LightKeeperService.exe | pid=4656 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\LightKeeperService.exe
+- Code.exe | pid=20020 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MSI_Case_Service.exe | pid=4668 | exe=C:\Program Files (x86)\MSI\MSI Center\Case\MSI_Case_Service.exe
+- msedgewebview2.exe | pid=12860 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- Mystic_Light_Service.exe | pid=4676 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\Mystic_Light_Service.exe
+- MSI_Central_Service.exe | pid=4684 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI_Central_Service.exe
+- EpicGamesLauncher.exe | pid=11864 | exe=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+- msedgewebview2.exe | pid=26204 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=31324 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- firefox.exe | pid=32356 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- msedgewebview2.exe | pid=27244 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- NordUpdateService.exe | pid=4724 | exe=C:\Program Files\NordUpdater\NordUpdateService.exe
+- GameManagerService3.exe | pid=4740 | exe=C:\Program Files (x86)\Razer\Razer Services\GMS3\GameManagerService3.exe
+- RazerCentralService.exe | pid=4748 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\RazerCentralService.exe
+- msedgewebview2.exe | pid=14000 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- OP.GG.exe | pid=22192 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- firefox.exe | pid=4788 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=25268 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- OverwolfBrowser.exe | pid=31412 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- msedgewebview2.exe | pid=23228 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=32476 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OverwolfBrowser.exe | pid=23264 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- crashhelper.exe | pid=6892 | exe=C:\Program Files\Mozilla Firefox\crashhelper.exe
+- firefox.exe | pid=23280 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- DisplayFusionHookApp32.exe | pid=1780 | exe=C:\Program Files\DisplayFusion\DisplayFusionHookApp32.exe
+- DisplayFusion.exe | pid=26360 | exe=C:\Program Files\DisplayFusion\DisplayFusion.exe
+- OP.GG.exe | pid=26376 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- firefox.exe | pid=6940 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=19236 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=19260 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MSI.CentralServer.exe | pid=6976 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI.CentralServer.exe
+- Code.exe | pid=18252 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- firefox.exe | pid=10064 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- msedgewebview2.exe | pid=13140 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=17240 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OverwolfBrowser.exe | pid=16232 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- Razer Central.exe | pid=23404 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\Razer Central.exe
+- DisplayFusionService.exe | pid=31600 | exe=C:\Program Files\DisplayFusion\DisplayFusionService.exe
+- msedgewebview2.exe | pid=14208 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- msedgewebview2.exe | pid=26496 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=20380 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=18344 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=19376 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- CefSharp.BrowserSubprocess.exe | pid=23480 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- Code.exe | pid=18368 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MicrosoftEdgeUpdate.exe | pid=8132 | exe=C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+- EpicWebHelper.exe | pid=24516 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- firefox.exe | pid=31696 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=19420 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- EpicWebHelper.exe | pid=17376 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- EpicWebHelper.exe | pid=24544 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- LEDKeeper2.exe | pid=8172 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\LEDKeeper2.exe
+- Overwolf.exe | pid=24560 | exe=C:\Program Files (x86)\Overwolf\Overwolf.exe
+- OverwolfBrowser.exe | pid=32764 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- System | pid=4 | exe=
+- DisplayFusionHookApp64.exe | pid=5148 | exe=C:\Program Files\DisplayFusion\DisplayFusionHookApp64.exe
+- Code.exe | pid=18464 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=32828 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- CC_Engine_x64.exe | pid=8256 | exe=C:\Program Files (x86)\MSI\MSI Center\Engine\CC_Engine_x64.exe
+- MSI.TerminalServer.exe | pid=14400 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI.TerminalServer.exe
+- OP.GG.exe | pid=4176 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- Code.exe | pid=14416 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- pet.exe | pid=19540 | exe=C:\Users\artem\.vscode\extensions\ms-python.python-2026.0.0-win32-x64\python-env-tools\bin\pet.exe
+- msedgewebview2.exe | pid=26720 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- nordvpn-service.exe | pid=4196 | exe=C:\Program Files\NordVPN\nordvpn-service.exe
+- OP.GG.exe | pid=23668 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- firefox.exe | pid=32936 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=26800 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- msedgewebview2.exe | pid=27824 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- EpicWebHelper.exe | pid=23764 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+-  | pid=236 | exe=
+- CefSharp.BrowserSubprocess.exe | pid=23808 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- RazerCortex.exe | pid=1300 | exe=C:\Program Files (x86)\Razer\Razer Cortex\RazerCortex.exe
+- Registry | pid=280 | exe=Registry
+- MemCompression | pid=2336 | exe=MemCompression
+- msedgewebview2.exe | pid=13608 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- CefSharp.BrowserSubprocess.exe | pid=11588 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- msedgewebview2.exe | pid=13644 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- CefSharp.BrowserSubprocess.exe | pid=23896 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- CefSharp.BrowserSubprocess.exe | pid=23904 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- OP.GG.exe | pid=24936 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- OverwolfHelper.exe | pid=24944 | exe=C:\Program Files (x86)\Common Files\Overwolf\0.292.1.1\OverwolfHelper.exe
+- firefox.exe | pid=31116 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=26024 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- OverwolfBrowser.exe | pid=5556 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- PowerModeWatcher.exe | pid=21956 | exe=C:\Program Files (x86)\MSI\MSI Center\AI Engine\PowerModeWatcher.exe
+- OverwolfHelper64.exe | pid=25052 | exe=C:\Program Files (x86)\Common Files\Overwolf\0.292.1.1\OverwolfHelper64.exe
+- CortexLauncherService.exe | pid=4608 | exe=C:\Program Files (x86)\Razer\Razer Cortex\CortexLauncherService.exe
+- OverwolfBrowser.exe | pid=3596 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- AppleMobileDeviceService.exe | pid=4648 | exe=C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe
+- OP.GG.exe | pid=27176 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- LightKeeperService.exe | pid=4656 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\LightKeeperService.exe
+- Code.exe | pid=20020 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MSI_Case_Service.exe | pid=4668 | exe=C:\Program Files (x86)\MSI\MSI Center\Case\MSI_Case_Service.exe
+- msedgewebview2.exe | pid=12860 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- Mystic_Light_Service.exe | pid=4676 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\Mystic_Light_Service.exe
+- MSI_Central_Service.exe | pid=4684 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI_Central_Service.exe
+- EpicGamesLauncher.exe | pid=11864 | exe=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+- msedgewebview2.exe | pid=26204 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=31324 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- firefox.exe | pid=32356 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- msedgewebview2.exe | pid=27244 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- NordUpdateService.exe | pid=4724 | exe=C:\Program Files\NordUpdater\NordUpdateService.exe
+- GameManagerService3.exe | pid=4740 | exe=C:\Program Files (x86)\Razer\Razer Services\GMS3\GameManagerService3.exe
+- RazerCentralService.exe | pid=4748 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\RazerCentralService.exe
+- msedgewebview2.exe | pid=14000 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- OP.GG.exe | pid=22192 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- firefox.exe | pid=4788 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OP.GG.exe | pid=25268 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- OverwolfBrowser.exe | pid=31412 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- msedgewebview2.exe | pid=23228 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=32476 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OverwolfBrowser.exe | pid=23264 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- crashhelper.exe | pid=6892 | exe=C:\Program Files\Mozilla Firefox\crashhelper.exe
+- firefox.exe | pid=23280 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- DisplayFusionHookApp32.exe | pid=1780 | exe=C:\Program Files\DisplayFusion\DisplayFusionHookApp32.exe
+- DisplayFusion.exe | pid=26360 | exe=C:\Program Files\DisplayFusion\DisplayFusion.exe
+- OP.GG.exe | pid=26376 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- firefox.exe | pid=6940 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=19236 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=19260 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MSI.CentralServer.exe | pid=6976 | exe=C:\Program Files (x86)\MSI\MSI Center\MSI.CentralServer.exe
+- Code.exe | pid=18252 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- firefox.exe | pid=10064 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- msedgewebview2.exe | pid=13140 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=17240 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- OverwolfBrowser.exe | pid=16232 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- Razer Central.exe | pid=23404 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\Razer Central.exe
+- DisplayFusionService.exe | pid=31600 | exe=C:\Program Files\DisplayFusion\DisplayFusionService.exe
+- msedgewebview2.exe | pid=14208 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- msedgewebview2.exe | pid=26496 | exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe
+- firefox.exe | pid=20380 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=18344 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- Code.exe | pid=19376 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- CefSharp.BrowserSubprocess.exe | pid=23480 | exe=C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+- Code.exe | pid=18368 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- MicrosoftEdgeUpdate.exe | pid=8132 | exe=C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+- EpicWebHelper.exe | pid=24516 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- firefox.exe | pid=31696 | exe=C:\Program Files\Mozilla Firefox\firefox.exe
+- Code.exe | pid=19420 | exe=C:\Users\artem\AppData\Local\Programs\Microsoft VS Code\Code.exe
+- EpicWebHelper.exe | pid=17376 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- EpicWebHelper.exe | pid=24544 | exe=C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+- LEDKeeper2.exe | pid=8172 | exe=C:\Program Files (x86)\MSI\MSI Center\Mystic Light\LEDKeeper2.exe
+- Overwolf.exe | pid=24560 | exe=C:\Program Files (x86)\Overwolf\Overwolf.exe
+- OverwolfBrowser.exe | pid=32764 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe

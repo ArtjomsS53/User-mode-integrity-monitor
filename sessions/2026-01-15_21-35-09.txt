@@ -1,0 +1,8 @@
+VALORANT session stopped
+Summary: 5 unique process(es) (5events)
+Processes:
+- SearchHost.exe | pid=9484 | exe=C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe
+- GameBarFTServer.exe | pid=36268 | exe=C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_7.325.11061.0_x64__8wekyb3d8bbwe\GameBarFTServer.exe
+- GameBar.exe | pid=13500 | exe=C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_7.325.11061.0_x64__8wekyb3d8bbwe\GameBar.exe
+- XboxGameBarWidgets.exe | pid=7192 | exe=C:\Program Files\WindowsApps\Microsoft.GamingApp_2512.1001.34.0_x64__8wekyb3d8bbwe\XboxGameBarWidgets.exe
+- identity_helper.exe | pid=37308 | exe=C:\Program Files (x86)\Microsoft\Edge\Application\143.0.3650.139\identity_helper.exe

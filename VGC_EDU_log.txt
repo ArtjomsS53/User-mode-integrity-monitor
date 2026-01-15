@@ -1,0 +1,25 @@
+[15-01-2026 23:48:39] VALORANT Integrity Monitor started.
+[15-01-2026 23:48:45] VALORANT started
+[15-01-2026 23:48:48] New process while VALORANT running: RazerCortex.Shell.exe | pid=38828 | exe=C:\Program Files (x86)\Razer\Razer Cortex\RazerCortex.Shell.exe
+[15-01-2026 23:48:48] New process while VALORANT running: Razer.InGameOverlay.exe | pid=4912 | exe=C:\Program Files (x86)\Razer\Razer Cortex\Razer.InGameOverlay.exe
+[15-01-2026 23:48:51] New process while VALORANT running: injector_helper.x64.exe | pid=35032 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\resources\app.asar.unpacked\node_modules\electron-overlay\injector_helper.x64.exe
+[15-01-2026 23:48:54] New process while VALORANT running: OverwolfBrowser.exe | pid=48504 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+[15-01-2026 23:48:57] New process while VALORANT running: EpicWebHelper.exe | pid=39228 | exe=C:\Riot Games\VALORANT\live\Engine\Binaries\Win64\EpicWebHelper.exe
+[15-01-2026 23:49:18] New process while VALORANT running: Telegram.exe | pid=1624 | exe=C:\Program Files\WindowsApps\TelegramMessengerLLP.TelegramDesktop_6.3.9.0_x64__t4vj0pshhgkwm\Telegram.exe
+[15-01-2026 23:49:33] New process while VALORANT running: GameBarFTServer.exe | pid=28340 | exe=C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_7.325.11061.0_x64__8wekyb3d8bbwe\GameBarFTServer.exe
+[15-01-2026 23:49:33] New process while VALORANT running: GameBar.exe | pid=40220 | exe=C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_7.325.11061.0_x64__8wekyb3d8bbwe\GameBar.exe
+[15-01-2026 23:49:36] New process while VALORANT running: XboxGameBarWidgets.exe | pid=28192 | exe=C:\Program Files\WindowsApps\Microsoft.GamingApp_2512.1001.34.0_x64__8wekyb3d8bbwe\XboxGameBarWidgets.exe
+[15-01-2026 23:49:51] VALORANT stopped
+[15-01-2026 23:49:51] Session summary saved to: sessions\2026-01-15_23-49-51.txt
+[15-01-2026 23:49:51] Summary: 9 unique process(es) (9 events)
+[15-01-2026 23:49:51] Unique processes:
+[15-01-2026 23:49:51]   - RazerCortex.Shell.exe | pid=38828 | exe=C:\Program Files (x86)\Razer\Razer Cortex\RazerCortex.Shell.exe
+[15-01-2026 23:49:51]   - Razer.InGameOverlay.exe | pid=4912 | exe=C:\Program Files (x86)\Razer\Razer Cortex\Razer.InGameOverlay.exe
+[15-01-2026 23:49:51]   - injector_helper.x64.exe | pid=35032 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\resources\app.asar.unpacked\node_modules\electron-overlay\injector_helper.x64.exe
+[15-01-2026 23:49:51]   - OverwolfBrowser.exe | pid=48504 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+[15-01-2026 23:49:51]   - EpicWebHelper.exe | pid=39228 | exe=C:\Riot Games\VALORANT\live\Engine\Binaries\Win64\EpicWebHelper.exe
+[15-01-2026 23:49:51]   - Telegram.exe | pid=1624 | exe=C:\Program Files\WindowsApps\TelegramMessengerLLP.TelegramDesktop_6.3.9.0_x64__t4vj0pshhgkwm\Telegram.exe
+[15-01-2026 23:49:51]   - GameBarFTServer.exe | pid=28340 | exe=C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_7.325.11061.0_x64__8wekyb3d8bbwe\GameBarFTServer.exe
+[15-01-2026 23:49:51]   - GameBar.exe | pid=40220 | exe=C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_7.325.11061.0_x64__8wekyb3d8bbwe\GameBar.exe
+[15-01-2026 23:49:51]   - XboxGameBarWidgets.exe | pid=28192 | exe=C:\Program Files\WindowsApps\Microsoft.GamingApp_2512.1001.34.0_x64__8wekyb3d8bbwe\XboxGameBarWidgets.exe
+[15-01-2026 23:49:51] ----------------------------------------

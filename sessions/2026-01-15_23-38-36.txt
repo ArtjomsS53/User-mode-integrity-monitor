@@ -1,0 +1,11 @@
+VALORANT session stopped
+Summary: 8 unique process(es) (8events)
+Processes:
+- Razer.InGameOverlay.exe | pid=29316 | exe=C:\Program Files (x86)\Razer\Razer Cortex\Razer.InGameOverlay.exe
+- OP.GG.exe | pid=33452 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\OP.GG.exe
+- RazerCortex.Shell.exe | pid=21708 | exe=C:\Program Files (x86)\Razer\Razer Cortex\RazerCortex.Shell.exe
+- injector_helper.x64.exe | pid=4708 | exe=C:\Users\artem\AppData\Local\Programs\OP.GG\resources\app.asar.unpacked\node_modules\electron-overlay\injector_helper.x64.exe
+- OverwolfBrowser.exe | pid=45924 | exe=C:\Program Files (x86)\Overwolf\0.292.1.1\OverwolfBrowser.exe
+- EpicWebHelper.exe | pid=47088 | exe=C:\Riot Games\VALORANT\live\Engine\Binaries\Win64\EpicWebHelper.exe
+- vgm.exe | pid=16388 | exe=C:\Program Files\Riot Vanguard\vgm.exe
+- Telegram.exe | pid=29496 | exe=C:\Program Files\WindowsApps\TelegramMessengerLLP.TelegramDesktop_6.3.9.0_x64__t4vj0pshhgkwm\Telegram.exe
