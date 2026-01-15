@@ -74,15 +74,6 @@ This tool operates **entirely in user-mode**, using publicly available OS APIs.
 
 ---
 
-## 🚀 How to Run
-
-### 1️⃣ Install dependencies
-
-```bash
-pip install psutil
-
-python monitor.py
-
 The monitor will automatically detect the game session and log events.
 
 Example Log Output:
