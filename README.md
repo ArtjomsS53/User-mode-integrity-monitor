@@ -1,108 +1,146 @@
-# VALORANT User-Mode Integrity Monitor (Educational)
+# User-mode Integrity Monitor (VGC EDU)
 
-## 📌 Overview
-
-This project is a **user-mode integrity monitor** for **VALORANT**, created for **educational purposes**.
-
-The goal of the project is to demonstrate how **OS-level process monitoring** and **behavior-based detection logic** work in practice — **without interacting with the game memory or bypassing any anti-cheat systems**.
-
-The program monitors system processes **only while VALORANT is running** and logs newly spawned processes during active gameplay sessions.
+A user-mode integrity monitoring tool written in Python, inspired by the conceptual design of modern anti-cheat systems.  
+This project is **educational** and focuses on process monitoring, logging, multithreading, and GUI architecture rather than real anti-cheat bypass or kernel-level protection.
 
 ---
 
-## 🎯 Purpose of the Project
+## 🎯 Project Goals
 
-- Learn **system-level thinking**, not game hacking
-- Practice **process lifecycle monitoring**
-- Understand how **behavioral detection** works conceptually
-- Build a **portfolio-ready security / IT project**
-- Work with Python in a **practical, minimal way**
+The main purpose of this project is learning and experimentation:
 
-This project is **not a cheat**, **not a bypass**, and **not an anti-cheat replacement**.
+- Understanding how integrity monitoring works at a **conceptual level**
+- Practicing **process enumeration and filtering** in user mode
+- Building a **responsive GUI application** using threads and Qt signals
+- Designing clean and consistent **logging pipelines**
+- Maintaining good repository hygiene (no runtime artifacts tracked in Git)
 
----
-
-## 🔒 What This Project DOES NOT Do
-
-❌ Does NOT access game memory  
-❌ Does NOT inject code  
-❌ Does NOT interfere with Riot Vanguard  
-❌ Does NOT bypass or disable any protection  
-❌ Does NOT modify VALORANT files  
-
-This tool operates **entirely in user-mode**, using publicly available OS APIs.
+> ⚠️ This project does **NOT** bypass, hook, or interact with real anti-cheat systems.  
+> It only observes user-mode processes for educational purposes.
 
 ---
 
-## ✅ What This Project DOES
+## ✨ Features
 
-✔ Detects when `VALORANT.exe` starts and stops  
-✔ Takes snapshots of running system processes  
-✔ Detects **new processes spawned during gameplay**  
-✔ Filters known/expected processes using an allowlist  
-✔ Logs events with timestamps to a file  
-
----
-
-## 🧠 How It Works (High Level)
-
-1. The program continuously checks whether `VALORANT.exe` is running
-2. When the game starts:
-   - The current process list is saved as a baseline
-3. While the game is running:
-   - New processes are detected by comparing snapshots
-4. Known/allowed processes are filtered out
-5. Unexpected processes are logged for analysis
-6. When the game closes:
-   - Monitoring pauses until the next session
+- Monitors system processes while **VALORANT** is running
+- Detects **newly spawned processes** during an active game session
+- Session-based monitoring with automatic **session summaries**
+- Graphical **GUI dashboard** built with PySide6
+- **System tray support** (background operation, show/hide window)
+- Monitoring logic runs inside a **separate QThread**
+- Live log streaming to:
+  - console
+  - local log file
+  - GUI window
+- Real-time application status:
+  - `IDLE`
+  - `RUNNING`
+- Clean repository structure:
+  - no logs in Git
+  - no session artifacts in Git
+  - runtime data is local-only
 
 ---
 
-## 🛠 Technologies Used
+## 🧱 Architecture Overview
 
-- **Python 3.10+**
-- **psutil** — process and system monitoring library
-- Standard Python libraries (`time`, `datetime`, `os`)
+The application is split into clearly separated layers:
+
+- **Core monitoring logic**
+  - Process snapshotting using `psutil`
+  - Allowlist-based filtering
+  - Session lifecycle management
+- **Threaded monitor**
+  - Runs independently from the GUI
+  - Prevents UI freezing
+- **GUI layer**
+  - Live log display
+  - Status indicator
+  - System tray integration
+- **Signal-based communication**
+  - Thread-safe updates between monitor and GUI
 
 ---
 
 ## 📂 Project Structure
 
-- `monitor.py` — main monitoring logic
-- `monitor_log.txt` — generated runtime log
-- `README.md` — project documentation
+.
+├── VALORANT Integrity Monitor.py # Main application (monitor + GUI)
+├── README.md # Project documentation
+├── to_do.md # Planned improvements
+├── .gitignore # Ignore logs & runtime artifacts
+
+Runtime-generated files (not tracked by Git):
+
+- `VGC_EDU_log.txt`
+- `sessions/`
 
 ---
 
-The monitor will automatically detect the game session and log events.
-
-
-Example Log Output:
+## 📝 Example Log Output
 
 ```bash
-[2026-01-15 18:41:12] VALORANT Integrity Monitor started
-[2026-01-15 18:42:05] New process while VALORANT running: obs64.exe | pid=1234
-[2026-01-15 18:55:33] VALORANT session ended
+[16-01-2026 23:55:39] VALORANT Integrity Monitor started.
+[16-01-2026 23:55:51] VALORANT started
+[16-01-2026 23:55:54] VALORANT monitor started...
+[16-01-2026 23:55:54] New process while VALORANT running: OP.GG.exe | pid=1512 | exe=...
+[16-01-2026 23:57:09] VALORANT stopped
+[16-01-2026 23:57:09] Session summary saved to: sessions/2026-01-16_23-57-09.txt
 ```
 ---
 
-Educational Value:
-This project demonstrates:
-OS-level telemetry usage
-Behavioral monitoring concepts
-Event-driven system logic
-Practical Python scripting
-Security-oriented thinking
+## 🚀 How to Run
 
-It is suitable as:
-a personal learning project
-a portfolio item
-a foundation for further system monitoring tools
+### Requirements
+- Python 3.10 or newer
+- Windows OS
+- Required dependencies:
+  ```bash
+  pip install psutil PySide6
+  ```
 
+## How To Launch
 
+python "VALORANT Integrity Monitor.py"
 
-!!!⚠️Disclaimer
-This project is created strictly for educational purposes.
+---
 
-VALORANT and Riot Vanguard are trademarks of Riot Games, Inc.
-This project is not affiliated with or endorsed by Riot Games.
+📌 Important Notes
+
+- This is a user-mode only project
+
+- No kernel drivers
+
+- No memory scanning
+
+- No game manipulation
+
+- Designed strictly for learning and demonstration
+
+---
+
+🛠 Planned Improvements
+
+- Start / Stop monitoring directly from the system tray
+
+- Configurable allowlist via external file
+
+- GUI-based session summary viewer
+
+- Colored log levels (INFO / EVENT / ALERT)
+
+- Modular check system for extensibility
+
+---
+
+📜 License
+
+Educational use only.
+You are free to study, modify, and extend this project for learning purposes.
+
+---
+
+👤 Author
+
+ArtjomsS53
+Educational project focused on system monitoring, Python architecture, multithreading, and GUI design.
