@@ -1,4 +1,4 @@
-# User-mode Integrity Monitor (VGC EDU)
+# User-mode Integrity Monitor
 
 A user-mode integrity monitoring tool written in Python, inspired by the conceptual design of modern anti-cheat systems.  
 This project is **educational** and focuses on process monitoring, logging, multithreading, and GUI architecture rather than real anti-cheat bypass or kernel-level protection.
@@ -63,13 +63,13 @@ The application is split into clearly separated layers:
 ---
 
 ## 📂 Project Structure
-
+```
 .
 ├── VALORANT Integrity Monitor.py # Main application (monitor + GUI)
 ├── README.md # Project documentation
 ├── to_do.md # Planned improvements
 ├── .gitignore # Ignore logs & runtime artifacts
-
+```
 Runtime-generated files (not tracked by Git):
 
 - `VGC_EDU_log.txt`
