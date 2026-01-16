@@ -1,0 +1,4 @@
+VGC_EDU_log.txt
+sessions/
+__pycache__/
+*.pyc

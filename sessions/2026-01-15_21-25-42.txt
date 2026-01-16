@@ -1,3 +1,0 @@
-VALORANT session stopped
-Summary: 0 unique process(es) (0events)
-Processes:
