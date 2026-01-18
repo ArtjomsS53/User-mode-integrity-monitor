@@ -1,0 +1,12 @@
+{
+  "game_process": "VALORANT.exe",
+  "scan_interval": 0.8,
+  "game_check_interval": 0.2,
+  "allowlist_keywords": ["edge", "discord", "steam"],
+  "auto_quit_on_game_close": true,
+  "enable_main_log": true,
+  "main_log_file": "VGC_EDU_log.txt",
+  "sessions_dir": "sessions",
+  "default_gui_width": 1600,
+  "default_gui_height": 720
+}

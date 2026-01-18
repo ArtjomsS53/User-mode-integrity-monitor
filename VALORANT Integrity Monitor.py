@@ -1,58 +1,130 @@
 import time         #Pредоставляет функции для работы с системным временем
 import psutil           #ЦП, память, диски, сеть, датчики
 import os               #Взаимодействие с ОС
+import json             #Работа с JSON файлами
 from datetime import datetime           #Работа с датой и временем
-from PySide6 import QtWidgets, QtCore, QtGui    #GUI библиотека
+from PySide6 import QtWidgets, QtCore    #GUI библиотека
 
 
 #Константы:
-ALLOWLIST_KEYWORDS = [          #Слова для белого списка процессов
-"edge"
-]
-
-
-
-GAME_PROCESS = "VALORANT.exe"       #Название процесса игры
-LOG_FILE = "VGC_EDU_log.txt"        #Файл лога
-SESSIONS_DIR = "sessions"           #Папка для сохранения сессий
 
 GUI_MODE = True          #Если True - запускается GUI, если False - консольный режим
 log_callback = None        #Функция обратного вызова для логов GUI
 status_callback = None     #Принимает str: "IDLE" / "RUNNING"
-
-
-
+quit_callback = None       #Функция обратного вызова для выхода из GUI
 in_session = False          #Внутри сессии Valorant или нет?
 session_events = []         #Список событий, что нашли за сессию
 seen_keys = set()           #Уникальные ключи процессов (имя + путь), чтобы не логировать дубликаты       
 known_processes = set()     #Известные PIDы процессов на данный момент
 printed_session_header = False                      #Флаг для печати заголовка сессии только один раз
+game_pid = None              #PID процесса игры
+cfg_file = "config.json"
+
+default_cfg = {
+    "default_gui_width": 1600,
+    "default_gui_height": 720,
+    "game_process": "VALORANT.exe",
+    "scan_interval": 0.8,
+    "game_check_interval": 0.2,
+    "allowlist_keywords": ["edge"],
+    "auto_quit_on_game_close": True,
+    "enable_main_log": True,
+    "main_log_file": "VGC_EDU_log.txt",
+    "sessions_dir": "sessions",
+}
+
+def load_config():            #Функция загрузки конфигурации из файла config.json
+    cfg = dict(default_cfg)   #Начинаем с дефолтной конфигурации
+    try:
+        with open(cfg_file, "r", encoding="utf-8", errors="ignore") as f:
+            user_cfg = json.load(f)
+        if isinstance(user_cfg, dict):
+            cfg.update(user_cfg)        #Обновляем конфигурацию значениями из файла
+    except FileNotFoundError:
+        pass
+    except Exception:                   #Битый json или другая ошибка — просто используем дефолты
+        pass
+
+    try:
+        cfg["scan_interval"] = float(cfg.get("scan_interval", default_cfg["scan_interval"]))
+        cfg["game_check_interval"] = float(cfg.get("game_check_interval", default_cfg["game_check_interval"]))
+    except Exception:
+        cfg["scan_interval"] = default_cfg["scan_interval"]
+        cfg["game_check_interval"] = default_cfg["game_check_interval"] 
+
+    if cfg["scan_interval"] < 0.1:
+        cfg["scan_interval"] = default_cfg["scan_interval"]
+    if cfg["game_check_interval"] < 0.01:
+        cfg["game_check_interval"] = default_cfg["game_check_interval"] 
+
+    akw = cfg.get("allowlist_keywords", default_cfg["allowlist_keywords"])
+    if not isinstance(akw, list):
+        akw = default_cfg["allowlist_keywords"]
+    cfg["allowlist_keywords"] = [str(x) for x in akw if str(x).strip()]
+
+    cfg["auto_quit_on_game_close"] = bool(cfg.get("auto_quit_on_game_close", True))
+    cfg["enable_main_log"] = bool(cfg.get("enable_main_log", True))
+
+    cfg["game_process"] = str(cfg.get("game_process", default_cfg["game_process"]))
+    cfg["main_log_file"] = str(cfg.get("main_log_file", default_cfg["main_log_file"]))
+    cfg["sessions_dir"] = str(cfg.get("sessions_dir", default_cfg["sessions_dir"]))
+
+    return cfg
+
+_cfg = load_config()
+
+GAME_PROCESS = _cfg["game_process"]
+scan_interval = _cfg["scan_interval"]
+game_check_interval = _cfg["game_check_interval"]
+ALLOWLIST_KEYWORDS = _cfg["allowlist_keywords"]
+auto_quit_on_game_close = _cfg["auto_quit_on_game_close"]
+enable_main_log = _cfg["enable_main_log"]
+LOG_FILE = _cfg["main_log_file"]
+SESSIONS_DIR = _cfg["sessions_dir"]
+gui_width = int(_cfg.get("default_gui_width", 1200))
+gui_height = int(_cfg.get("default_gui_height", 720))
+
+ALLOWLIST_KEYWORDS = [k.lower() for k in ALLOWLIST_KEYWORDS]
 
 def snapshot_pids() -> set[int]:            #Функция создания снимка текущих PIDов процессов
     return set(psutil.pids())
 
-def is_game_running() -> bool:          #Функция проверки запущен ли процесс VALORANT.exe
-    for p in psutil.process_iter(["name"]):
-        try:   #Ищем нужное название процесса ИЗ ВСЕХ запущенных
-            if p.info["name"] == GAME_PROCESS:    #Если название процесса VALORANT.exe -> возврат Ture
+def is_game_running() -> bool:
+    global game_pid                         #Функция проверки запущен ли процесс игры   
+
+    if game_pid is not None:                #Если у нас уже есть PID процесса игры, проверяем его
+        try:
+            if psutil.pid_exists(game_pid):
+                p = psutil.Process(game_pid)
+                if (p.name() or "") == GAME_PROCESS:
+                    return True
+        except Exception:
+            pass
+        game_pid = None                     #Если процесс не найден, сбрасываем PID
+
+    for p in psutil.process_iter(["name", "pid"]):              #Ищем процесс игры среди всех процессов
+        try:
+            if p.info.get("name") == GAME_PROCESS:              #Если нашли процесс игры
+                game_pid = int(p.info.get("pid"))
                 return True
         except Exception:
             pass
-    return False  
+
+    return False
 
 def emit_log(message: str):         #Функция логирования с отметкой времени, запись в файл и прокидка в GUI
-
     stamp = datetime.now().strftime("%d-%m-%Y %H:%M:%S")
     line = f"[{stamp}] {message}"
 
     print(line)
 
     #Запись в файл лога
-    try:
-        with open(LOG_FILE, "a", encoding="utf-8", errors="ignore") as f:
-            f.write(line + "\n")
-    except Exception:
-        pass
+    if enable_main_log:
+        try:
+            with open(LOG_FILE, "a", encoding="utf-8", errors="ignore") as f:
+                f.write(line + "\n")
+        except Exception:
+            pass
 
     #прокидка в GUI
     if log_callback:
@@ -60,6 +132,15 @@ def emit_log(message: str):         #Функция логирования с о
             log_callback(line)
         except Exception:
             pass
+
+def clear_main_log():            #Функция очистки основного лога при старте
+    if not enable_main_log:
+        return
+    try:
+        with open(LOG_FILE, "w", encoding="utf-8", errors="ignore") as f:
+            f.write("")
+    except Exception:
+        pass
 
 def set_status(text: str):        #Функция установки статуса в GUI
     if status_callback:
@@ -82,12 +163,15 @@ def save_session_summary(lines: list[str]) -> str:          #Создаем па
 def monitor_loop(stop_flag):      #Основной цикл мониторинга    
     global in_session, printed_session_header, known_processes
     global session_events, seen_keys
-    global not_running_logged
+    global game_pid
 
+    clear_main_log()
     emit_log("VALORANT Integrity Monitor started.")
     set_status("IDLE")
 
-    while not stop_flag["stop"]:
+    last_full_scan = 0.0            #Время последнего полного сканирования процессов
+
+    while not stop_flag["stop"]:    #Пока не установлен флаг остановки        
         game_running = is_game_running()
 
         # START
@@ -95,17 +179,18 @@ def monitor_loop(stop_flag):      #Основной цикл мониторин�
             in_session = True
             printed_session_header = False
             known_processes = snapshot_pids()
+            last_full_scan = 0.0
             session_events.clear()
             seen_keys.clear()
-
             emit_log("VALORANT started")
             set_status("RUNNING")
-            time.sleep(3)
+            time.sleep(game_check_interval)
             continue
 
         # STOP
         if (not game_running) and in_session:
             in_session = False
+            game_pid = None
             unique_events = list(dict.fromkeys(session_events))
 
             emit_log("VALORANT stopped")
@@ -128,64 +213,80 @@ def monitor_loop(stop_flag):      #Основной цикл мониторин�
                 emit_log(f"  - {entry}")
 
             emit_log("-" * 40)
-            time.sleep(3)
+            if auto_quit_on_game_close and quit_callback:
+                try:
+                    quit_callback(saved_path, "\n".join(summary_lines))
+                except Exception:
+                    pass
+            time.sleep(game_check_interval)
             continue
 
         # IN SESSION
         if in_session:
-            if not printed_session_header:
+            now = time.time()                                           #Текущее время
+
+            if not printed_session_header:                              #Печатаем заголовок сессии только один раз
                 emit_log("VALORANT monitor started...")
-                emit_log(f"Processes running: {len(psutil.pids())}")
+                emit_log(f"Processes running: {len(known_processes)}")
                 printed_session_header = True
 
-            current = snapshot_pids()
-            new_pids = current - known_processes
+            if (now - last_full_scan) >= scan_interval:                 #Если прошло достаточно времени с последнего полного сканирования процессов
+                last_full_scan = now
 
-            for pid in new_pids:
-                try:
-                    if pid in (0, 4):
-                        continue
+                current = snapshot_pids()                               #Создаем снимок текущих PIDов процессов
+                new_pids = current - known_processes                    #Находим новые PIDы, которые появились с последнего сканирования
 
-                    p = psutil.Process(pid)
-                    name = p.name() or ""
-                    
+                for pid in new_pids:                                    #Для каждого нового PIDа
                     try:
-                        exe = p.exe()
-                    except (psutil.AccessDenied, psutil.NoSuchProcess):
-                        exe = "?"
+                        if pid in (0, 4):
+                            continue
 
-                    if not name:
-                        continue
+                        p = psutil.Process(pid)
+                        name = p.name() or ""
 
-                    exe_low = (exe or "").lower()
-                    if "\\windows\\system32\\" in exe_low or "\\windows\\syswow64\\" in exe_low:
-                        continue
+                        try:                                            #Получаем путь к исполняемому файлу процесса
+                            exe = p.exe()
+                        except (psutil.AccessDenied, psutil.NoSuchProcess):
+                            exe = "?"
 
-                    low = (name + " " + (exe or "")).lower()
-                    if any(k.lower() in low for k in ALLOWLIST_KEYWORDS):
-                        continue
+                        if not name:                                    #Если имя процесса пустое - пропускаем
+                            continue
 
-                    entry = f"{name} | pid={pid} | exe={exe}"
-                    key = (name.lower(), (exe or "").lower())
+                        exe_low = (exe or "").lower()                   #Проверяем системные процессы Windows и пропускаем их
+                        if "\\windows\\system32\\" in exe_low or "\\windows\\syswow64\\" in exe_low:
+                            continue
 
-                    if key in seen_keys:
-                        continue
-                    seen_keys.add(key)
+                        low = (name + " " + (exe or "")).lower()        #Проверяем на наличие ключевых слов из белого списка и пропускаем такие процессы
+                        if any(k in low for k in ALLOWLIST_KEYWORDS):
+                            continue
 
-                    emit_log(f"New process while VALORANT running: {entry}")
-                    session_events.append(entry)
+                        entry = f"{name} | pid={pid} | exe={exe}"       #Формируем строку лога для нового процесса
+                        key = (name.lower(), (exe or "").lower())
 
-                except (psutil.NoSuchProcess, psutil.AccessDenied):
-                    pass
-                except Exception:
-                    pass
+                        if key in seen_keys:                            #Если такой процесс уже был залогирован - пропускаем
+                            continue
+                        seen_keys.add(key)
 
-            known_processes = current
-            time.sleep(3)
+                        emit_log(f"New process while VALORANT running: {entry}")        #Логируем новый процесс
+                        session_events.append(entry)
 
-        else:
-            known_processes = snapshot_pids()
-            time.sleep(3)
+                    except (psutil.NoSuchProcess, psutil.AccessDenied):                 #Если процесс завершился или доступ запрещен - пропускаем
+                        pass
+                    except Exception:
+                        pass
+
+                known_processes = current
+
+            time.sleep(game_check_interval)                             #Ждем перед следующей итерацией
+
+
+
+        else:                                                           # NOT IN SESSION
+            now = time.time()
+            if (now - last_full_scan) >= scan_interval:                 #Если прошло достаточно времени с последнего полного сканирования процессов
+                last_full_scan = now
+                known_processes = snapshot_pids()
+            time.sleep(game_check_interval)
 
 class Dashboard(QtWidgets.QMainWindow):        #GUI класс
     log_signal = QtCore.Signal(str)
@@ -193,14 +294,17 @@ class Dashboard(QtWidgets.QMainWindow):        #GUI класс
 
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("VALORANT Integrity Monitor")
-        self.resize(900, 600)
+        self.allow_close = False
+        self.resize(gui_width, gui_height)
+        self.move(self.screen().availableGeometry().center() - self.rect().center())
+
 
         self.base_title = "VALORANT Integrity Monitor"
         self.setWindowTitle(self.base_title)
 
         self.log_view = QtWidgets.QPlainTextEdit()
         self.log_view.setReadOnly(True)
+        self.log_view.document().setMaximumBlockCount(3000)  # Ограничение на 3000 строк
         self.log_signal.connect(self.append_log)
         self.status_signal.connect(self.set_status_ui)
         self.setCentralWidget(self.log_view)
@@ -242,24 +346,30 @@ class Dashboard(QtWidgets.QMainWindow):        #GUI класс
             self.toggle_visibility()
             
     def quit_app(self):
+        emit_log("VALORANT Integrity Monitor stopped by user.")
+        self.allow_close = True
         QtWidgets.QApplication.quit()
 
     def closeEvent(self, event):
-        event.ignore()
-        self.hide()
+        if self.allow_close:
+            event.accept()
+        else:
+            event.ignore()
+            self.hide()
 
 class MonitorThread(QtCore.QThread):            #Поток для мониторинга
     def __init__(self):
-        super().__init__()
+        super().__init__()                      #Инициализация потока
         self.stop_flag = {"stop": False}
 
     def run(self):
         monitor_loop(self.stop_flag)
 
     def stop(self):
-        self.stop_flag["stop"] = True
+        self.stop_flag["stop"] = True           #Устанавливаем флаг остановки
+        self.wait(1500)                         # Ждем до 1.5 секунд для завершения потока
 
-if __name__ == "__main__":
+if __name__ == "__main__":                      #Главный блок запуска
 
     if GUI_MODE:                                #Если GUI_MODE True - запускаем GUI
         app = QtWidgets.QApplication([])        #Создаем приложение GUI
@@ -268,13 +378,26 @@ if __name__ == "__main__":
         def _push(line: str):                   #Функция для прокидывания логов в GUI
             dash.log_signal.emit(line)
 
+        def _quit(saved_path: str, summary_text: str):    #Функция для выхода из GUI
+            def _ui():
+                QtWidgets.QMessageBox.information(
+                dash,
+                "Session ended",
+                f"{summary_text}\n\nSession summary saved to:\n{saved_path}",
+                )
+
+                dash.allow_close = True
+                QtCore.QTimer.singleShot(150, QtWidgets.QApplication.quit)
+            QtCore.QTimer.singleShot(0, _ui)
+
+
         def _status(status: str):              #Функция для установки статуса в GUI
             dash.status_signal.emit(status)
+
         status_callback = _status
-
-        log_callback = _push
-
-        t = MonitorThread()          #Создаем и запускаем поток мониторинга
+        quit_callback = _quit       #Функция для выхода из GUI
+        log_callback = _push        #Устанавливаем функцию логов в GUI
+        t = MonitorThread()         #Создаем и запускаем поток мониторинга
         t.start()                   #1) запускаем поток мониторинга
 
         
@@ -287,6 +410,6 @@ if __name__ == "__main__":
         stop_flag = {"stop": False}             #Флаг остановки мониторинга для консольного режима
         try:
             monitor_loop(stop_flag)
-        except KeyboardInterrupt:           #Обработка нажатия Ctrl+C для остановки монитора
-            stop_flag["stop"] = True        #Устанавливаем флаг остановки
+        except KeyboardInterrupt:                                            #Обработка нажатия Ctrl+C для остановки монитора
+            stop_flag["stop"] = True                                         #Устанавливаем флаг остановки
             emit_log("VALORANT Integrity Monitor stopped by user.")          #Логируем остановку монитора

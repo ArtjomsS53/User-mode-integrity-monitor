@@ -1,6 +1,6 @@
 # User-mode Integrity Monitor
 
-A user-mode integrity monitoring tool written in Python, inspired by the conceptual design of modern anti-cheat systems.  
+A user-mode integrity monitoring tool written in Python, inspired by the **conceptual design** of modern anti-cheat systems.
 This project is **educational** and focuses on process monitoring, logging, multithreading, and GUI architecture rather than real anti-cheat bypass or kernel-level protection.
 
 ---
@@ -62,13 +62,37 @@ The application is split into clearly separated layers:
 
 ---
 
+## 🔐 Threat Model (Educational)
+
+This project simulates a **user-mode integrity monitor**.
+Threats considered within the scope of this project are limited to:
+ - Unexpected user-mode processes
+ - Third-party applications starting during a game session
+
+The project focuses on **observation**, not enforcement or prevention.
+It does **not** attempt to detect cheats or malicious software.
+
+---
+
+## ⛔ Limitations
+
+This project has important limitations **by design**:
+  - Operates **only in user mode**
+  - Does **not** scan memory or inspect process internals
+  - Does **not** hook APIs or inject code
+  - Does **not** use kernel drivers
+  - Does **not** bypass or interact with real anti-cheat systems
+  - Cannot reliably identify malicious software
+
+All detections are observational, not authoritative.
+
 ## 📂 Project Structure
 ```
 .
-├── VALORANT Integrity Monitor.py # Main application (monitor + GUI)
-├── README.md # Project documentation
-├── to_do.md # Planned improvements
-├── .gitignore # Ignore logs & runtime artifacts
+├── VALORANT Integrity Monitor.py   # Main application (monitor + GUI)
+├── README.md                       # Project documentation
+├── to_do.md                        # Planned improvements
+├── .gitignore                      # Ignore logs & runtime artifacts
 ```
 Runtime-generated files (not tracked by Git):
 
@@ -95,14 +119,15 @@ Runtime-generated files (not tracked by Git):
 - Python 3.10 or newer
 - Windows OS
 - Required dependencies:
-  ```bash
-  pip install psutil PySide6
-  ```
+```bash
+pip install psutil PySide6
+```
 
 ## How To Launch
 
+```bash
 python "VALORANT Integrity Monitor.py"
-
+```
 ---
 
 📌 Important Notes
@@ -115,7 +140,7 @@ python "VALORANT Integrity Monitor.py"
 
 - No game manipulation
 
-- Designed strictly for learning and demonstration
+- Designed strictly for **learning and demonstration**
 
 ---
 
